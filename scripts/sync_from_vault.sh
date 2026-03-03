@@ -25,6 +25,5 @@ copy_if_exists "$VAULT/Weather/Tokyo/" "$CONTENT_DIR/Weather/Tokyo/"
 copy_if_exists "$VAULT/Stocks/Buzzing/" "$CONTENT_DIR/Stocks/Buzzing/"
 copy_if_exists "$VAULT/Books/Daily/" "$CONTENT_DIR/Books/Daily/"
 copy_if_exists "$VAULT/Sources/Daily-5/" "$CONTENT_DIR/Sources/Daily-5/"
-copy_if_exists "$VAULT/Publish Allowlist Checklist.md" "$CONTENT_DIR/Publish Allowlist Checklist.md"
 
 echo "Synced allowlisted notes from vault to Quartz content/."
