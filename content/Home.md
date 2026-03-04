@@ -1,12 +1,13 @@
 # Sado Vault Home
 
-_Last refreshed: 2026-03-03 21:10:15_
+_Last refreshed: 2026-03-04 21:10:21_
 
 ## Quick Links
 - [[Daily/2026-02-24]]
 - [[Stocks/Buzzing/README]]
 
 ## Weather
+- [[Weather/Tokyo/2026-03-04 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-03 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-02 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-01 04-00 Tokyo Weather]]
@@ -16,22 +17,24 @@ _Last refreshed: 2026-03-03 21:10:15_
 - [[Weather/Tokyo/2026-02-25 04-00 Tokyo Weather]]
 
 ## Buzzing Stocks
+- [[Stocks/Buzzing/2026-03-04 20-00 Buzzing Stocks]]
+- [[Stocks/Buzzing/2026-03-04 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-03 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-03 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-02 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-02 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-01 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-01 06-00 Buzzing Stocks]]
-- [[Stocks/Buzzing/2026-02-28 20-00 Buzzing Stocks]]
-- [[Stocks/Buzzing/2026-02-28 06-00 Buzzing Stocks]]
 
 ## Tea Daily
+- [[Tea/Daily/2026-03-04 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-03 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-02 23-59 Deploy Test]]
 - [[Tea/Daily/2026-03-02 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-02-24 06-00 茶道の学び]]
 
 ## Learning Missions
+- [[Learning/Missions/2026-03-04 07-30 Mission]]
 - [[Learning/Missions/2026-03-03 07-30 Mission]]
 - [[Learning/Missions/2026-03-02 07-30 Mission]]
 - [[Learning/Missions/2026-03-01 07-30 Mission]]
@@ -39,29 +42,29 @@ _Last refreshed: 2026-03-03 21:10:15_
 - [[Learning/Missions/2026-02-27 07-30 Mission]]
 - [[Learning/Missions/2026-02-26 07-30 Mission]]
 - [[Learning/Missions/2026-02-25 07-30 Mission]]
-- [[Learning/Missions/2026-02-24 07-30 Mission]]
 
 ## X Digest
+- [[Signals/X-Digest/2026-03-04 20-03 X Digest]]
+- [[Signals/X-Digest/2026-03-04 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-03 20-01 X Digest]]
 - [[Signals/X-Digest/2026-03-03 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-02 20-01 X Digest]]
 - [[Signals/X-Digest/2026-03-02 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-01 20-01 X Digest]]
 - [[Signals/X-Digest/2026-03-01 08-00 X Digest]]
-- [[Signals/X-Digest/2026-02-28 20-01 X Digest]]
-- [[Signals/X-Digest/2026-02-28 08-00 X Digest]]
 
 ## X Trends
+- [[Signals/X-Trends/2026-03-04 20-39 X Trends]]
+- [[Signals/X-Trends/2026-03-04 12-39 X Trends]]
 - [[Signals/X-Trends/2026-03-03 20-39 X Trends]]
 - [[Signals/X-Trends/2026-03-03 12-39 X Trends]]
 - [[Signals/X-Trends/2026-03-03 04-39 X Trends]]
 - [[Signals/X-Trends/2026-03-02 20-39 X Trends]]
 - [[Signals/X-Trends/2026-03-02 12-39 X Trends]]
 - [[Signals/X-Trends/2026-03-02 04-39 X Trends]]
-- [[Signals/X-Trends/2026-03-01 20-39 X Trends]]
-- [[Signals/X-Trends/2026-03-01 12-39 X Trends]]
 
 ## Reddit OpenClaw
+- [[Signals/Reddit-OpenClaw/2026-03-04 04-39 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-03 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-02 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-01 04-38 Reddit OpenClaw]]
@@ -87,6 +90,7 @@ _Last refreshed: 2026-03-03 21:10:15_
 - [[Sources/Daily-5/2026-02-24 09-00 Daily 5 Sources]]
 
 ## Books Daily
+- [[Books/Daily/2026-03-04 09-30 Books]]
 - [[Books/Daily/2026-03-03 09-30 Books]]
 - [[Books/Daily/2026-03-02 09-30 Books]]
 - [[Books/Daily/2026-03-01 09-30 Books]]
@@ -94,9 +98,9 @@ _Last refreshed: 2026-03-03 21:10:15_
 - [[Books/Daily/2026-02-27 09-30 Books]]
 - [[Books/Daily/2026-02-26 09-30 Books]]
 - [[Books/Daily/2026-02-25 09-30 Books]]
-- [[Books/Daily/2026-02-24 09-30 Books]]
 
 ## Amazon JP Deals
+- [[Deals/AmazonJP/2026-03-04 16-42 Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-03-03 16-42 Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-03-02 04-42 Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-03-01 16-42 Amazon Tech Deals]]
@@ -104,7 +108,6 @@ _Last refreshed: 2026-03-03 21:10:15_
 - [[Deals/AmazonJP/2026-02-27 16-42 Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-02-27 04-42 Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-02-25 04-42 Amazon Tech Deals]]
-- [[Deals/AmazonJP/2026-02-24 19-35 Amazon Tech Deals]]
 
 ## Tags
 #sado #learning #obsidian
