@@ -1,10 +1,6 @@
 # Sado Vault Home
 
-_Last refreshed: 2026-03-08 21:10:24_
-
-## Quick Links
-- [[Daily/2026-02-24]]
-- [[Stocks/Buzzing/README]]
+_Last refreshed: 2026-03-09 02:14:30_
 
 ## Weather
 - [[Weather/Tokyo/2026-03-08 04-00 Tokyo Weather]]
@@ -16,6 +12,13 @@ _Last refreshed: 2026-03-08 21:10:24_
 - [[Weather/Tokyo/2026-03-02 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-01 04-00 Tokyo Weather]]
 
+## Nikkei News
+- [[News/Nikkei/2026-03-08 05-00 Nikkei News]]
+- [[News/Nikkei/2026-03-06 05-00 Nikkei News]]
+- [[News/Nikkei/2026-03-05 05-00 Nikkei News]]
+- [[News/Nikkei/2026-03-04 05-00 Nikkei News]]
+- [[News/Nikkei/2026-03-03 05-00 Nikkei News]]
+
 ## Buzzing Stocks
 - [[Stocks/Buzzing/2026-03-08 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-08 06-00 Buzzing Stocks]]
@@ -25,6 +28,24 @@ _Last refreshed: 2026-03-08 21:10:24_
 - [[Stocks/Buzzing/2026-03-06 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-05 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-05 06-00 Buzzing Stocks]]
+
+## Global OHLC
+- [[Markets/OHLC-Daily/2026-03-08 07-00 Global OHLC Memo]]
+- [[Markets/OHLC-Daily/2026-03-07 07-00 Global OHLC Memo]]
+- [[Markets/OHLC-Daily/2026-03-06 07-00 Global OHLC Memo]]
+- [[Markets/OHLC-Daily/2026-03-05 07-00 Global OHLC Memo]]
+
+## US Top20
+- [[Markets/US-Top20/2026-03-06 07-30 US Top20 Memo]]
+- [[Markets/US-Top20/2026-03-05 07-30 US Top20 Memo]]
+
+## JP Top20
+- [[Markets/JP-Top20/2026-03-06 16-10 JP Top20 Memo]]
+- [[Markets/JP-Top20/2026-03-05 16-10 JP Top20 Memo]]
+
+## CN Top20
+- [[Markets/CN-Top20/2026-03-06 16-30 CN Top20 Memo]]
+- [[Markets/CN-Top20/2026-03-05 16-30 CN Top20 Memo]]
 
 ## Tea Daily
 - [[Tea/Daily/2026-03-08 06-15 茶道マガジン]]
@@ -45,6 +66,35 @@ _Last refreshed: 2026-03-08 21:10:24_
 - [[Learning/Missions/2026-03-03 07-30 Mission]]
 - [[Learning/Missions/2026-03-02 07-30 Mission]]
 - [[Learning/Missions/2026-03-01 07-30 Mission]]
+
+## Security & DevOps Magazine
+- [[Learning/SecDevOps-Magazine/2026-03-08 09-00 SecDevOps Magazine]]
+- [[Learning/SecDevOps-Magazine/2026-03-07 09-00 SecDevOps Magazine]]
+- [[Learning/SecDevOps-Magazine/2026-03-06 09-00 SecDevOps Magazine]]
+- [[Learning/SecDevOps-Magazine/2026-03-05 09-00 SecDevOps Magazine]]
+- [[Learning/SecDevOps-Magazine/2026-03-04 09-00 SecDevOps Magazine]]
+- [[Learning/SecDevOps-Magazine/2026-03-03 09-00 SecDevOps Magazine]]
+
+## Linux Commands Magazine
+- [[Learning/Linux-Magazine/2026-03-08 09-15 Linux Commands Magazine]]
+- [[Learning/Linux-Magazine/2026-03-07 09-15 Linux Commands Magazine]]
+- [[Learning/Linux-Magazine/2026-03-06 09-15 Linux Commands Magazine]]
+- [[Learning/Linux-Magazine/2026-03-05 09-15 Linux Commands Magazine]]
+- [[Learning/Linux-Magazine/2026-03-04 09-15 Linux Commands Magazine]]
+
+## Docker Commands Magazine
+- [[Learning/Docker-Magazine/2026-03-08 09-20 Docker Commands Magazine]]
+- [[Learning/Docker-Magazine/2026-03-07 09-20 Docker Commands Magazine]]
+- [[Learning/Docker-Magazine/2026-03-06 09-20 Docker Commands Magazine]]
+- [[Learning/Docker-Magazine/2026-03-05 09-20 Docker Commands Magazine]]
+- [[Learning/Docker-Magazine/2026-03-04 09-20 Docker Commands Magazine]]
+
+## Kubernetes Commands Magazine
+- [[Learning/Kubernetes-Magazine/2026-03-08 09-25 Kubernetes Commands Magazine]]
+- [[Learning/Kubernetes-Magazine/2026-03-07 09-25 Kubernetes Commands Magazine]]
+- [[Learning/Kubernetes-Magazine/2026-03-06 09-25 Kubernetes Commands Magazine]]
+- [[Learning/Kubernetes-Magazine/2026-03-05 09-25 Kubernetes Commands Magazine]]
+- [[Learning/Kubernetes-Magazine/2026-03-04 09-25 Kubernetes Commands Magazine]]
 
 ## X Digest
 - [[Signals/X-Digest/2026-03-08 20-02 X Digest]]
@@ -75,22 +125,6 @@ _Last refreshed: 2026-03-08 21:10:24_
 - [[Signals/Reddit-OpenClaw/2026-03-03 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-02 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-01 04-38 Reddit OpenClaw]]
-
-## Portfolio Risk
-- [[Markets/Risk/2026-03-02 08-15 Portfolio Risk]]
-- [[Markets/Risk/2026-02-27 08-15 Portfolio Risk]]
-- [[Markets/Risk/2026-02-26 08-15 Portfolio Risk]]
-- [[Markets/Risk/2026-02-25 08-15 Portfolio Risk]]
-- [[Markets/Risk/2026-02-24 08-15 Portfolio Risk]]
-
-## Daily 5 Sources
-- [[Sources/Daily-5/2026-03-02 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-03-01 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-02-28 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-02-27 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-02-26 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-02-25 09-00 Daily 5 Sources]]
-- [[Sources/Daily-5/2026-02-24 09-00 Daily 5 Sources]]
 
 ## Books Daily
 - [[Books/Daily/2026-03-08 09-30 Books]]
