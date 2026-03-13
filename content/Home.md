@@ -1,8 +1,9 @@
 # Sado Vault Home
 
-_Last refreshed: 2026-03-12 21:10:19_
+_Last refreshed: 2026-03-13 21:10:16_
 
 ## Weather
+- [[Weather/Tokyo/2026-03-13 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-12 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-11 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-10 04-00 Tokyo Weather]]
@@ -10,9 +11,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Weather/Tokyo/2026-03-08 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-07 04-00 Tokyo Weather]]
 - [[Weather/Tokyo/2026-03-06 04-00 Tokyo Weather]]
-- [[Weather/Tokyo/2026-03-05 04-00 Tokyo Weather]]
 
 ## Nikkei News
+- [[News/Nikkei/2026-03-13 05-00 Nikkei News]]
 - [[News/Nikkei/2026-03-12 05-00 Nikkei News]]
 - [[News/Nikkei/2026-03-11 05-00 Nikkei News]]
 - [[News/Nikkei/2026-03-10 05-00 Nikkei News]]
@@ -20,29 +21,29 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[News/Nikkei/2026-03-08 05-00 Nikkei News]]
 - [[News/Nikkei/2026-03-06 05-00 Nikkei News]]
 - [[News/Nikkei/2026-03-05 05-00 Nikkei News]]
-- [[News/Nikkei/2026-03-04 05-00 Nikkei News]]
 
 ## Buzzing Stocks
+- [[Stocks/Buzzing/2026-03-13 20-00 Buzzing Stocks]]
+- [[Stocks/Buzzing/2026-03-13 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-12 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-12 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-11 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-11 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-10 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-03-10 06-00 Buzzing Stocks]]
-- [[Stocks/Buzzing/2026-03-09 20-00 Buzzing Stocks]]
-- [[Stocks/Buzzing/2026-03-09 06-00 Buzzing Stocks]]
 
 ## Global OHLC
 - [[Markets/OHLC-Daily/2026-03-12 07-00 Global OHLC Memo]]
+- [[Markets/OHLC-Daily/2026-03-13 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-11 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-10 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-09 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-08 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-07 07-00 Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-03-06 07-00 Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-03-05 07-00 Global OHLC Memo]]
 
 ## US Top20
+- [[Markets/US-Top20/2026-03-13 07-30 US Top20 Memo]]
 - [[Markets/US-Top20/2026-03-12 07-30 US Top20 Memo]]
 - [[Markets/US-Top20/2026-03-11 07-30 US Top20 Memo]]
 - [[Markets/US-Top20/2026-03-10 07-30 US Top20 Memo]]
@@ -59,6 +60,7 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Markets/JP-Top20/2026-03-05 16-10 JP Top20 Memo]]
 
 ## CN Top20
+- [[Markets/CN-Top20/2026-03-13 16-30 CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-03-12 16-30 CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-03-11 16-30 CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-03-10 16-30 CN Top20 Memo]]
@@ -67,6 +69,7 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Markets/CN-Top20/2026-03-05 16-30 CN Top20 Memo]]
 
 ## Tea Daily
+- [[Tea/Daily/2026-03-13 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-12 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-11 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-10 06-15 茶道マガジン]]
@@ -74,9 +77,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Tea/Daily/2026-03-08 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-07 06-15 茶道マガジン]]
 - [[Tea/Daily/2026-03-06 06-15 茶道マガジン]]
-- [[Tea/Daily/2026-03-05 06-15 茶道マガジン]]
 
 ## Learning Missions
+- [[Learning/Missions/2026-03-13 07-30 Mission]]
 - [[Learning/Missions/2026-03-12 07-30 Mission]]
 - [[Learning/Missions/2026-03-11 07-30 Mission]]
 - [[Learning/Missions/2026-03-10 07-30 Mission]]
@@ -84,9 +87,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Learning/Missions/2026-03-08 07-30 Mission]]
 - [[Learning/Missions/2026-03-07 07-30 Mission]]
 - [[Learning/Missions/2026-03-06 07-30 Mission]]
-- [[Learning/Missions/2026-03-05 07-30 Mission]]
 
 ## Security & DevOps Magazine
+- [[Learning/SecDevOps-Magazine/2026-03-13 09-00 SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-03-12 09-00 SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-03-11 09-00 SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-03-10 09-00 SecDevOps Magazine]]
@@ -94,9 +97,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Learning/SecDevOps-Magazine/2026-03-08 09-00 SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-03-07 09-00 SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-03-06 09-00 SecDevOps Magazine]]
-- [[Learning/SecDevOps-Magazine/2026-03-05 09-00 SecDevOps Magazine]]
 
 ## Linux Commands Magazine
+- [[Learning/Linux-Magazine/2026-03-13 09-15 Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-03-12 09-15 Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-03-11 09-15 Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-03-10 09-15 Linux Commands Magazine]]
@@ -104,9 +107,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Learning/Linux-Magazine/2026-03-08 09-15 Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-03-07 09-15 Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-03-06 09-15 Linux Commands Magazine]]
-- [[Learning/Linux-Magazine/2026-03-05 09-15 Linux Commands Magazine]]
 
 ## Docker Commands Magazine
+- [[Learning/Docker-Magazine/2026-03-13 09-20 Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-03-12 09-20 Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-03-11 09-20 Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-03-10 09-20 Docker Commands Magazine]]
@@ -114,9 +117,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Learning/Docker-Magazine/2026-03-08 09-20 Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-03-07 09-20 Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-03-06 09-20 Docker Commands Magazine]]
-- [[Learning/Docker-Magazine/2026-03-05 09-20 Docker Commands Magazine]]
 
 ## Kubernetes Commands Magazine
+- [[Learning/Kubernetes-Magazine/2026-03-13 09-25 Kubernetes Commands Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-03-12 09-25 Kubernetes Commands Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-03-11 09-25 Kubernetes Commands Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-03-10 09-25 Kubernetes Commands Magazine]]
@@ -124,29 +127,29 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Learning/Kubernetes-Magazine/2026-03-08 09-25 Kubernetes Commands Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-03-07 09-25 Kubernetes Commands Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-03-06 09-25 Kubernetes Commands Magazine]]
-- [[Learning/Kubernetes-Magazine/2026-03-05 09-25 Kubernetes Commands Magazine]]
 
 ## X Digest
+- [[Signals/X-Digest/2026-03-13 20-02 X Digest]]
+- [[Signals/X-Digest/2026-03-13 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-12 20-02 X Digest]]
 - [[Signals/X-Digest/2026-03-12 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-11 20-02 X Digest]]
 - [[Signals/X-Digest/2026-03-11 08-00 X Digest]]
 - [[Signals/X-Digest/2026-03-10 20-02 X Digest]]
 - [[Signals/X-Digest/2026-03-10 08-00 X Digest]]
-- [[Signals/X-Digest/2026-03-09 20-01 X Digest]]
-- [[Signals/X-Digest/2026-03-09 08-00 X Digest]]
 
 ## X Trends
+- [[Signals/X-Trends/2026-03-13 20-39 X Trends]]
+- [[Signals/X-Trends/2026-03-13 12-39 X Trends]]
+- [[Signals/X-Trends/2026-03-13 04-39 X Trends]]
 - [[Signals/X-Trends/2026-03-12 20-39 X Trends]]
 - [[Signals/X-Trends/2026-03-12 12-39 X Trends]]
 - [[Signals/X-Trends/2026-03-12 04-39 X Trends]]
 - [[Signals/X-Trends/2026-03-11 20-39 X Trends]]
 - [[Signals/X-Trends/2026-03-11 12-39 X Trends]]
-- [[Signals/X-Trends/2026-03-10 20-39 X Trends]]
-- [[Signals/X-Trends/2026-03-10 12-39 X Trends]]
-- [[Signals/X-Trends/2026-03-09 20-39 X Trends]]
 
 ## Reddit OpenClaw
+- [[Signals/Reddit-OpenClaw/2026-03-13 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-12 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-11 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-10 04-38 Reddit OpenClaw]]
@@ -154,9 +157,9 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Signals/Reddit-OpenClaw/2026-03-08 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-07 04-38 Reddit OpenClaw]]
 - [[Signals/Reddit-OpenClaw/2026-03-06 04-38 Reddit OpenClaw]]
-- [[Signals/Reddit-OpenClaw/2026-03-05 04-38 Reddit OpenClaw]]
 
 ## Books Daily
+- [[Books/Daily/2026-03-13 09-30 Books]]
 - [[Books/Daily/2026-03-12 09-30 Books]]
 - [[Books/Daily/2026-03-11 09-30 Books]]
 - [[Books/Daily/2026-03-10 09-30 Books]]
@@ -164,7 +167,6 @@ _Last refreshed: 2026-03-12 21:10:19_
 - [[Books/Daily/2026-03-08 09-30 Books]]
 - [[Books/Daily/2026-03-07 09-30 Books]]
 - [[Books/Daily/2026-03-06 09-30 Books]]
-- [[Books/Daily/2026-03-04 09-30 Books]]
 
 ## Amazon JP Deals
 - [[Deals/AmazonJP/2026-03-10 20-30 Amazon Tech Deals]]

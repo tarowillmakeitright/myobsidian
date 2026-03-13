@@ -10,12 +10,12 @@
 ## 日本株先物
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| 日経先物 | NK=F | 2020-08-21 | N/A | 22870 | 22755 | 22755 | 22880 | N/A | [NK=F](https://finance.yahoo.com/quote/NK%3DF) |
+| Nikkei/Yen Futures | NIY=F | 2026-03-12 | 53770 | 54130 | 53505 | 54115 | 54035 | N/A | [NIY=F](https://finance.yahoo.com/quote/NIY%3DF) |
 
 ## 日本株指数
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| TOPIX | ^TOPX | 2019-06-29 | N/A | N/A | N/A | N/A | N/A | N/A | [^TOPX](https://finance.yahoo.com/quote/%5ETOPX) |
+| Nikkei 225 | ^N225 | 2026-03-12 | 37370.8 | 37523.46 | 36757.48 | 36808.03 | 37028.27 | N/A | [^N225](https://finance.yahoo.com/quote/%5EN225) |
 
 ## 貴金属
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
