@@ -1,64 +1,66 @@
-# Global OHLC Memo (2026-03-27 07:00 JST)
+# Global OHLC Memo (2026-03-27 23:13 JST)
 
 #markets #ohlc #futures #fx #daily
 
 [[Home]]
 
-取得成功数: **25/26**  \nN/A件数: **1**  \n注意点: Yahoo Financeの公開データ（query1/chart + finance.yahoo.com）のみ使用。Closeは取得時点、銘柄により遅延・時間外を含みます。
+## サマリー
+- 取得成功数: **25/26**
+- N/A件数: **1**
+- 注意点: 一部ティッカーでN/A（^SSEC）。Yahoo Financeのchart API（query2.finance.yahoo.com）を使用。市場や銘柄により更新遅延の可能性あり。
 
-## 日本・アジア
-
-| 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| Nikkei/USD Futures | NKD=F | 2026-03-27 | 53600 | 53950 | 52115 | 52410 | 53030 | REGULAR | [link](https://finance.yahoo.com/quote/NKD%3DF) |
-| Nikkei 225 | ^N225 | 2026-03-26 | 53855.12890625 | 54175.8 | 53176.77 | 53603.65 | 53372.53 | POST | [link](https://finance.yahoo.com/quote/%5EN225) |
-| China market index/futures | 000300.SS | 2026-03-26 | 4525.3291015625 | 4541.05 | 4468.957 | 4477.534 | 4567.02 | N/A | [link](https://finance.yahoo.com/quote/000300.SS) |
-| Shanghai index | ^SSEC | N/A | N/A | N/A | N/A | N/A | N/A | N/A | [link](https://finance.yahoo.com/quote/%5ESSEC) |
-
-## 米国指数・ボラ・暗号
+## 米国株指数
 
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| NASDAQ | ^IXIC | 2026-03-27 | 21693.173828125 | 21823.576 | 21395.773 | 21408.08 | 22090.69 | POST | [link](https://finance.yahoo.com/quote/%5EIXIC) |
-| SOX | ^SOX | 2026-03-27 | 7823.7646484375 | 7831.754 | 7582.862 | 7585.871 | 7863.3 | REGULAR | [link](https://finance.yahoo.com/quote/%5ESOX) |
-| Russell 2000 | ^RUT | 2026-03-27 | 2517.009521484375 | 2534.64 | 2490.507 | 2493.321 | 2494.71 | POST | [link](https://finance.yahoo.com/quote/%5ERUT) |
-| VIX | ^VIX | 2026-03-27 | 26.489999771118164 | 28.49 | 26.12 | 27.44 | 26.78 | REGULAR | [link](https://finance.yahoo.com/quote/%5EVIX) |
-| Bitcoin | BTC-USD | 2026-03-27 | 71311.6640625 | 71350.84 | 68163.75 | 68952.82 | 67845.21 | N/A | [link](https://finance.yahoo.com/quote/BTC-USD) |
+|---|---|---|---|---|---|---|---|---|---|
+| 日経USD先物 | NKD=F | 2026-03-27 | 52,340 | 53,425 | 51,630 | 51,720 | 53,030 | N/A | https://finance.yahoo.com/quote/NKD=F |
+| NASDAQ総合 | ^IXIC | 2026-03-27 | 21,287.1875 | 21,293.502 | 21,109.9102 | 21,148.15 | 21,647.61 | N/A | https://finance.yahoo.com/quote/^IXIC |
+| SOX指数 | ^SOX | 2026-03-27 | 7,545.4189 | 7,611.5962 | 7,482.1289 | 7,526.122 | 7,670.61 | N/A | https://finance.yahoo.com/quote/^SOX |
+| S&P500先物 | ES=F | 2026-03-27 | 6,536 | 6,568.5 | 6,454 | 6,461 | 6,634.75 | N/A | https://finance.yahoo.com/quote/ES=F |
+| Mini Dow | YM=F | 2026-03-27 | 46,333 | 46,502 | 45,688 | 45,769 | 46,522 | N/A | https://finance.yahoo.com/quote/YM=F |
+| Mini NQ100 | NQ=F | 2026-03-27 | 23,824 | 23,976 | 23,453 | 23,499 | 24,408.25 | N/A | https://finance.yahoo.com/quote/NQ=F |
+| Mini S&P500 | MES=F | 2026-03-27 | 6,540 | 6,568.5 | 6,454 | 6,460.75 | 6,634.75 | N/A | https://finance.yahoo.com/quote/MES=F |
+| VIX | ^VIX | 2026-03-27 | 27.54 | 30.31 | 27.54 | 30.3 | 26.15 | N/A | https://finance.yahoo.com/quote/^VIX |
+| Russell 2000 | ^RUT | 2026-03-27 | 2,481.1079 | 2,481.1079 | 2,463.5027 | 2,463.5027 | 2,438.45 | N/A | https://finance.yahoo.com/quote/^RUT |
 
-## 株価指数先物（米）
-
-| 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| S&P500 futures | ES=F | 2026-03-27 | 6641.5 | 6647 | 6517 | 6535.5 | 6634.75 | PRE | [link](https://finance.yahoo.com/quote/ES%3DF) |
-| Mini Dow | YM=F | 2026-03-27 | 46726 | 46848 | 46172 | 46309 | 46522 | REGULAR | [link](https://finance.yahoo.com/quote/YM%3DF) |
-| Mini NQ100 | NQ=F | 2026-03-27 | 24373.5 | 24421.25 | 23763.25 | 23822 | 24408.25 | REGULAR | [link](https://finance.yahoo.com/quote/NQ%3DF) |
-| Mini S&P500 | MES=F | 2026-03-27 | 6641 | 6647 | 6517 | 6535.5 | 6634.75 | REGULAR | [link](https://finance.yahoo.com/quote/MES%3DF) |
-
-## コモディティ先物
+## アジア株指数
 
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| Gold mini futures | MGC=F | 2026-03-27 | 4499.89990234375 | 4541.6 | 4348.4 | 4374.6 | 4407.3 | REGULAR | [link](https://finance.yahoo.com/quote/MGC%3DF) |
-| Silver futures | SI=F | 2026-03-27 | 71.50499725341797 | 72.385 | 66.705 | 68.125 | 69.049 | REGULAR | [link](https://finance.yahoo.com/quote/SI%3DF) |
-| Platinum futures | PL=F | 2026-03-27 | 1929.300048828125 | 1954.6 | 1817 | 1829.5 | 1860.3 | POST | [link](https://finance.yahoo.com/quote/PL%3DF) |
-| Palladium futures | PA=F | 2026-03-27 | 1423 | 1440 | 1343.5 | 1365 | 1411.3 | PRE | [link](https://finance.yahoo.com/quote/PA%3DF) |
-| Copper futures | HG=F | 2026-03-27 | 5.524499893188477 | 5.541 | 5.445 | 5.47 | 5.439 | PRE | [link](https://finance.yahoo.com/quote/HG%3DF) |
-| WTI oil futures | CL=F | 2026-03-27 | 91.37999725341797 | 95.44 | 89.51 | 93.79 | 88.13 | REGULAR | [link](https://finance.yahoo.com/quote/CL%3DF) |
+|---|---|---|---|---|---|---|---|---|---|
+| 日経225 | ^N225 | 2026-03-27 | 53,239.5898 | 53,714.8984 | 52,516.9219 | 53,373.07 | 51,515.49 | N/A | https://finance.yahoo.com/quote/^N225 |
+| CSI 300 | 000300.SS | 2026-03-27 | 4,431.5034 | 4,519.8901 | 4,431.4204 | 4,502.57 | 4,418 | N/A | https://finance.yahoo.com/quote/000300.SS |
+| 上海総合 | ^SSEC | N/A | N/A | N/A | N/A | N/A | N/A | N/A | https://finance.yahoo.com/quote/^SSEC |
 
-## 欧州指数
+## 欧州株指数
 
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| FTSE 100 | ^FTSE | 2026-03-27 | 10106.990234375 | 10106.99 | 9956.27 | 9972.17 | 10063.5 | POST | [link](https://finance.yahoo.com/quote/%5EFTSE) |
-| CAC 40 | ^FCHI | 2026-03-27 | 7795.77978515625 | 7843.07 | 7756.17 | 7769.31 | 7665.62 | POST | [link](https://finance.yahoo.com/quote/%5EFCHI) |
-| EURO STOXX 50 | ^STOXX50E | 2026-03-27 | 5620.0400390625 | 5620.04 | 5557.22 | 5565.93 | 5501.28 | N/A | [link](https://finance.yahoo.com/quote/%5ESTOXX50E) |
-| DAX | ^GDAXI | 2026-03-27 | 22740.7109375 | 22813.41 | 22557.1 | 22612.97 | 22839.56 | POST | [link](https://finance.yahoo.com/quote/%5EGDAXI) |
-| MSCI EUROPE | ^125904-USD-STRD | 2026-03-27 | 2566.6298828125 | 2567.85 | 2538.37 | 2547.16 | 2540.65 | REGULAR | [link](https://finance.yahoo.com/quote/%5E125904-USD-STRD) |
+|---|---|---|---|---|---|---|---|---|---|
+| FTSE 100 | ^FTSE | 2026-03-27 | 9,972.2998 | 10,024.0801 | 9,883.1504 | 9,934.04 | 9,918.3 | N/A | https://finance.yahoo.com/quote/^FTSE |
+| CAC 40 | ^FCHI | 2026-03-27 | 7,774.3999 | 7,785.46 | 7,677.3198 | 7,694.9 | 7,726.2 | N/A | https://finance.yahoo.com/quote/^FCHI |
+| EURO STOXX 50 | ^STOXX50E | 2026-03-27 | 5,570.4702 | 5,573.9702 | 5,478.9902 | 5,494.52 | 5,574.32 | N/A | https://finance.yahoo.com/quote/^STOXX50E |
+| DAX | ^GDAXI | 2026-03-27 | 22,612.9297 | 22,631.7598 | 22,215.8594 | 22,262.6 | 22,380.19 | N/A | https://finance.yahoo.com/quote/^GDAXI |
+| MSCI EUROPE | ^125904-USD-STRD | 2026-03-27 | 2,541.71 | 2,545.03 | 2,504.1899 | 2,519.22 | 2,540.65 | N/A | https://finance.yahoo.com/quote/^125904-USD-STRD |
 
-## FX
+## コモディティ
 
 | 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
-|---|---|---|---:|---:|---:|---:|---:|---|---|
-| USD/JPY | JPY=X | 2026-03-27 | 159.45599365234375 | 159.845 | 159.275 | 159.654 | 157.924 | N/A | [link](https://finance.yahoo.com/quote/JPY%3DX) |
-| EUR/JPY | EURJPY=X | 2026-03-27 | 184.2830047607422 | 184.473 | 183.964 | 184.171 | 182.823 | N/A | [link](https://finance.yahoo.com/quote/EURJPY%3DX) |
+|---|---|---|---|---|---|---|---|---|---|
+| 金ミニ先物 | MGC=F | 2026-03-27 | 4,375 | 4,469.2002 | 4,369.3999 | 4,484.9 | 4,407.3 | N/A | https://finance.yahoo.com/quote/MGC=F |
+| 銀先物 | SI=F | 2026-03-27 | 68.365 | 70.43 | 67.44 | 68.455 | 69.049 | N/A | https://finance.yahoo.com/quote/SI=F |
+| プラチナ先物 | PL=F | 2026-03-27 | 1,837.5 | 1,907.6 | 1,807.5 | 1,840 | 1,860.3 | N/A | https://finance.yahoo.com/quote/PL=F |
+| パラジウム先物 | PA=F | 2026-03-27 | 1,375 | 1,421.5 | 1,364.5 | 1,375 | 1,411.3 | N/A | https://finance.yahoo.com/quote/PA=F |
+| 銅先物 | HG=F | 2026-03-27 | 5.485 | 5.5685 | 5.4585 | 5.483 | 5.439 | N/A | https://finance.yahoo.com/quote/HG=F |
+| WTI原油先物 | CL=F | 2026-03-27 | 93.31 | 97.87 | 92.08 | 97.42 | 88.13 | N/A | https://finance.yahoo.com/quote/CL=F |
 
+## 為替
+
+| 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
+|---|---|---|---|---|---|---|---|---|---|
+| USD/JPY | JPY=X | 2026-03-27 | 159.631 | 159.976 | 159.442 | 159.849 | 159.234 | N/A | https://finance.yahoo.com/quote/JPY=X |
+| EUR/JPY | EURJPY=X | 2026-03-27 | 184.096 | 184.396 | 183.858 | 184.27 | 184.072 | N/A | https://finance.yahoo.com/quote/EURJPY=X |
+
+## 暗号資産
+
+| 銘柄 | ティッカー | セッション基準日 | Open | High | Low | Close(取得時点) | 前日終値 | 状態(marketState) | ソース(Yahooリンク) |
+|---|---|---|---|---|---|---|---|---|---|
+| Bitcoin | BTC-USD | 2026-03-27 | 68,778.7188 | 69,075.7891 | 66,139.3672 | 66,288.4 | 70,914.86 | N/A | https://finance.yahoo.com/quote/BTC-USD |
