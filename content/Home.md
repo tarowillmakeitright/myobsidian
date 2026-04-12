@@ -1,6 +1,6 @@
 # Sado Vault Home
 
-_Last refreshed: 2026-04-12 15:28:24_
+_Last refreshed: 2026-04-12 21:28:10_
 
 ## Weather
 - [[Weather/Tokyo/2026-04-12 04-00 Tokyo Weather]]
@@ -23,6 +23,7 @@ _Last refreshed: 2026-04-12 15:28:24_
 - [[News/Nikkei/2026-04-02 05-00 Nikkei News]]
 
 ## Buzzing Stocks
+- [[Stocks/Buzzing/2026-04-12 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-04-12 13-27 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-04-08 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-04-07 20-00 Buzzing Stocks]]
@@ -30,7 +31,6 @@ _Last refreshed: 2026-04-12 15:28:24_
 - [[Stocks/Buzzing/2026-04-06 20-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-04-06 06-00 Buzzing Stocks]]
 - [[Stocks/Buzzing/2026-04-05 20-00 Buzzing Stocks]]
-- [[Stocks/Buzzing/2026-04-05 06-00 Buzzing Stocks]]
 
 ## Global OHLC
 - [[Markets/OHLC-Daily/2026-04-12 07-00 Global OHLC Memo]]
@@ -123,6 +123,7 @@ _Last refreshed: 2026-04-12 15:28:24_
 - [[Learning/Kubernetes-Magazine/2026-04-02 09-25 Kubernetes Commands Magazine]]
 
 ## X Digest
+- [[Signals/X-Digest/2026-04-12 20-01 X Digest]]
 - [[Signals/X-Digest/2026-04-12 13-31 X Digest]]
 - [[Signals/X-Digest/2026-04-08 20-01 X Digest]]
 - [[Signals/X-Digest/2026-04-08 14-41 X Digest]]
@@ -130,7 +131,6 @@ _Last refreshed: 2026-04-12 15:28:24_
 - [[Signals/X-Digest/2026-04-07 08-00 X Digest]]
 - [[Signals/X-Digest/2026-04-06 20-01 X Digest]]
 - [[Signals/X-Digest/2026-04-06 08-00 X Digest]]
-- [[Signals/X-Digest/2026-04-05 20-02 X Digest]]
 
 ## X Trends
 - [[Signals/X-Trends/2026-04-12 13-33 X Trends]]
