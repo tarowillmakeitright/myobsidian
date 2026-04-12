@@ -1,6 +1,6 @@
 # Sado Vault Home
 
-_Last refreshed: 2026-04-08 21:48:34_
+_Last refreshed: 2026-04-12 13:25:14_
 
 ## Weather
 - [[Weather/Tokyo/2026-04-08 04-00 Tokyo Weather]]
@@ -133,6 +133,7 @@ _Last refreshed: 2026-04-08 21:48:34_
 - [[Signals/X-Digest/2026-04-05 08-00 X Digest]]
 
 ## X Trends
+- [[Signals/X-Trends/2026-04-08 22-47 X Trends]]
 - [[Signals/X-Trends/2026-04-08 14-47 X Trends]]
 - [[Signals/X-Trends/2026-04-07 20-40 X Trends]]
 - [[Signals/X-Trends/2026-04-07 12-40 X Trends]]
@@ -140,7 +141,6 @@ _Last refreshed: 2026-04-08 21:48:34_
 - [[Signals/X-Trends/2026-04-06 20-40 X Trends]]
 - [[Signals/X-Trends/2026-04-06 12-40 X Trends]]
 - [[Signals/X-Trends/2026-04-06 04-40 X Trends]]
-- [[Signals/X-Trends/2026-04-05 20-39 X Trends]]
 
 ## Reddit OpenClaw
 - [[Signals/Reddit-OpenClaw/2026-04-08 14-43 Reddit OpenClaw]]
@@ -163,6 +163,7 @@ _Last refreshed: 2026-04-08 21:48:34_
 - [[Books/Popular/2026-04-01 09-30 Popular Books]]
 
 ## Books Summary
+- [[Books/Summary/2026-04-08 10-00 Book Summary]]
 - [[Books/Summary/2026-04-07 10-00 Book Summary]]
 - [[Books/Summary/2026-04-06 10-00 Book Summary]]
 - [[Books/Summary/2026-04-05 10-00 Book Summary]]
@@ -170,7 +171,6 @@ _Last refreshed: 2026-04-08 21:48:34_
 - [[Books/Summary/2026-04-03 10-00 Book Summary]]
 - [[Books/Summary/2026-04-02 10-00 Book Summary]]
 - [[Books/Summary/2026-04-01 10-00 Book Summary]]
-- [[Books/Summary/2026-03-31 10-00 Book Summary]]
 
 ## Amazon JP Deals
 - [[Deals/AmazonJP/2026-04-08 20-30 Amazon Tech Deals]]
