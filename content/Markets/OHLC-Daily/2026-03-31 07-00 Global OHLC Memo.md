@@ -1,4 +1,4 @@
-# Global OHLC Memo (2026-03-31 23:14 JST 取得)
+**w**c# Global OHLC Memo (2026-03-31 23:14 JST 取得)
 
 #markets #ohlc #futures #fx #daily
 
