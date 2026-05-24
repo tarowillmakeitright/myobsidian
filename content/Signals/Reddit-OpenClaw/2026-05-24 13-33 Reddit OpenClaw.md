@@ -1,0 +1,88 @@
+# Reddit Signal — r/OpenClaw
+
+- Checked: 2026-05-24 13:33 UTC+09:00 (2026-05-24 04:33 UTC)
+- Baseline window: last 7 days (181 posts)
+- Median upvotes: 1.0
+- 90th percentile: 9.0
+- MAD: 1.0
+- Dynamic alert threshold: 11.7
+
+## Unusually high-upvote posts
+- **Google is launching its own version of OpenClaw**
+  - Upvotes: 189
+  - Why unusual: 189 upvotes is 21.00× p90 and 189.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1ti2bkp/google_is_launching_its_own_version_of_openclaw/
+  - Post time (UTC): 2026-05-19T22:18:20+00:00
+- **OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents**
+  - Upvotes: 158
+  - Why unusual: 158 upvotes is 17.56× p90 and 158.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tg8m7l/openclaw_creator_burned_through_13_million_in/
+  - Post time (UTC): 2026-05-18T01:55:44+00:00
+- **Finally getting some value out of my Claw**
+  - Upvotes: 64
+  - Why unusual: 64 upvotes is 7.11× p90 and 64.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tkyp6h/finally_getting_some_value_out_of_my_claw/
+  - Post time (UTC): 2026-05-22T22:53:00+00:00
+- **My molty has its own phone number now**
+  - Upvotes: 62
+  - Why unusual: 62 upvotes is 6.89× p90 and 62.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tfgum2/my_molty_has_its_own_phone_number_now/
+  - Post time (UTC): 2026-05-17T05:56:41+00:00
+- **Stuff i figured out after 3 weeks with openclaw that would've saved me days**
+  - Upvotes: 54
+  - Why unusual: 54 upvotes is 6.00× p90 and 54.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1thlo6s/stuff_i_figured_out_after_3_weeks_with_openclaw/
+  - Post time (UTC): 2026-05-19T12:37:14+00:00
+- **OpenClaw too expensive.. WHAT??**
+  - Upvotes: 33
+  - Why unusual: 33 upvotes is 3.67× p90 and 33.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tjl597/openclaw_too_expensive_what/
+  - Post time (UTC): 2026-05-21T13:50:05+00:00
+- **Spending $2.5k/month on Sonnet/Opus — worth switching more to GPT-5.5/Codex?**
+  - Upvotes: 32
+  - Why unusual: 32 upvotes is 3.56× p90 and 32.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tjhcly/spending_25kmonth_on_sonnetopus_worth_switching/
+  - Post time (UTC): 2026-05-21T11:16:38+00:00
+- **Anyone else have a fully working OC ?**
+  - Upvotes: 30
+  - Why unusual: 30 upvotes is 3.33× p90 and 30.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tiicaq/anyone_else_have_a_fully_working_oc/
+  - Post time (UTC): 2026-05-20T11:06:10+00:00
+- **Why do the mods forbid to mention better alternatives to OpenClaw?**
+  - Upvotes: 30
+  - Why unusual: 30 upvotes is 3.33× p90 and 30.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tkjlhz/why_do_the_mods_forbid_to_mention_better/
+  - Post time (UTC): 2026-05-22T13:50:26+00:00
+- **Conversation with OpenClaw**
+  - Upvotes: 22
+  - Why unusual: 22 upvotes is 2.44× p90 and 22.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1th0qwx/conversation_with_openclaw/
+  - Post time (UTC): 2026-05-18T20:47:52+00:00
+- **Openclaw falling on it's sword**
+  - Upvotes: 21
+  - Why unusual: 21 upvotes is 2.33× p90 and 21.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tfzgk5/openclaw_falling_on_its_sword/
+  - Post time (UTC): 2026-05-17T19:36:59+00:00
+- **Genuine question regarding OpenClaw ?**
+  - Upvotes: 16
+  - Why unusual: 16 upvotes is 1.78× p90 and 16.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tkp3ug/genuine_question_regarding_openclaw/
+  - Post time (UTC): 2026-05-22T17:05:11+00:00
+- **Why does every OpenClaw tutorial on YouTube end up pushing Hostinger**
+  - Upvotes: 16
+  - Why unusual: 16 upvotes is 1.78× p90 and 16.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tjdbbx/why_does_every_openclaw_tutorial_on_youtube_end/
+  - Post time (UTC): 2026-05-21T07:40:36+00:00
+- **Google Spark vs OpenClaw**
+  - Upvotes: 15
+  - Why unusual: 15 upvotes is 1.67× p90 and 15.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1ti9oyj/google_spark_vs_openclaw/
+  - Post time (UTC): 2026-05-20T03:30:44+00:00
+- **The perfect agent system**
+  - Upvotes: 15
+  - Why unusual: 15 upvotes is 1.67× p90 and 15.00× median
+  - Link: https://reddit.com/r/openclaw/comments/1tksl2y/the_perfect_agent_system/
+  - Post time (UTC): 2026-05-22T19:04:48+00:00
+
+Tags: #signals #reddit #openclaw
+Links: [[Home]]
