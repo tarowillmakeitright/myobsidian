@@ -22,7 +22,7 @@ copy_if_exists() {
 copy_if_exists "$VAULT/Home.md" "$CONTENT_DIR/Home.md"
 copy_if_exists "$VAULT/Tea/" "$CONTENT_DIR/Tea/"
 copy_if_exists "$VAULT/Weather/Tokyo/" "$CONTENT_DIR/Weather/Tokyo/"
-copy_if_exists "$VAULT/Stocks/Buzzing/" "$CONTENT_DIR/Stocks/Buzzing/"
+copy_if_exists "$VAULT/Markets/Stocks/Buzzing/" "$CONTENT_DIR/Markets/Stocks/Buzzing/"
 copy_if_exists "$VAULT/Books/Popular/" "$CONTENT_DIR/Books/Popular/"
 copy_if_exists "$VAULT/Books/Summary/" "$CONTENT_DIR/Books/Summary/"
 copy_if_exists "$VAULT/Learning/" "$CONTENT_DIR/Learning/"
@@ -30,5 +30,8 @@ copy_if_exists "$VAULT/Markets/" "$CONTENT_DIR/Markets/"
 copy_if_exists "$VAULT/Signals/" "$CONTENT_DIR/Signals/"
 copy_if_exists "$VAULT/News/Nikkei/" "$CONTENT_DIR/News/Nikkei/"
 copy_if_exists "$VAULT/Deals/AmazonJP/" "$CONTENT_DIR/Deals/AmazonJP/"
+for hub in Books Markets Learning Signals Tea Deals News Weather; do
+  copy_if_exists "$VAULT/$hub.md" "$CONTENT_DIR/$hub.md"
+done
 
 echo "Synced selected notes from vault to Quartz content/."
