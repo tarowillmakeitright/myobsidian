@@ -11,6 +11,8 @@ cssclasses:
 
 ## Latest articles
 
+- [[Signals/X-Trends/2026-07-21 05-43 X Trends|2026-07-21 05:43 · X Trends]]
+- [[Signals/X-Trends/2026-07-20 21-43 X Trends|2026-07-20 21:43 · X Trends]]
 - [[Signals/X-Trends/2026-07-20 13-43 X Trends|2026-07-20 13:43 · X Trends]]
 - [[Signals/X-Trends/2026-07-20 05-43 X Trends|2026-07-20 05:43 · X Trends]]
 - [[Signals/X-Trends/2026-07-19 21-43 X Trends|2026-07-19 21:43 · X Trends]]
