@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/SecDevOps-Magazine/2026-07-20 Weekly SecDevOps Magazine|2026-07-20 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-15 09-00 SecDevOps Magazine|2026-07-15 09:00 · SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-13 09-00 SecDevOps Magazine|2026-07-13 09:00 · SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-12 09-00 SecDevOps Magazine|2026-07-12 09:00 · SecDevOps Magazine]]
