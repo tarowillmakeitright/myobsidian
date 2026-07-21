@@ -13,11 +13,11 @@ cssclasses:
 
 _今日の小さな実践_
 
+- [[Learning/Missions/2026-07-21 07-30 Mission|2026-07-21 07:30 · Mission]]
 - [[Learning/Missions/2026-07-20 07-30 Mission|2026-07-20 07:30 · Mission]]
 - [[Learning/Missions/2026-07-19 07-30 Mission|2026-07-19 07:30 · Mission]]
 - [[Learning/Missions/2026-07-18 07-30 Mission|2026-07-18 07:30 · Mission]]
 - [[Learning/Missions/2026-07-17 07-30 Mission|2026-07-17 07:30 · Mission]]
-- [[Learning/Missions/2026-07-16 07-30 Mission|2026-07-16 07:30 · Mission]]
 
 ## [[Learning/Cloud-Engineer-Magazine Index|Cloud Engineer →]]
 
@@ -43,11 +43,11 @@ _守る・運ぶ・運用する_
 
 _コマンドから仕組みへ_
 
+- [[Learning/Linux-Magazine/2026-07-21 Weekly Linux Magazine|2026-07-21 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-07-15 09-15 Linux Commands Magazine|2026-07-15 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-14 09-15 Linux Commands Magazine|2026-07-14 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-13 09-15 Linux Commands Magazine|2026-07-13 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-12 09-15 Linux Commands Magazine|2026-07-12 09:15 · Linux Commands Magazine]]
-- [[Learning/Linux-Magazine/2026-07-11 09-15 Linux Commands Magazine|2026-07-11 09:15 · Linux Commands Magazine]]
 
 ## [[Learning/Docker-Magazine Index|Docker →]]
 

@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/Linux-Magazine/2026-07-21 Weekly Linux Magazine|2026-07-21 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-07-15 09-15 Linux Commands Magazine|2026-07-15 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-14 09-15 Linux Commands Magazine|2026-07-14 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-13 09-15 Linux Commands Magazine|2026-07-13 09:15 · Linux Commands Magazine]]
