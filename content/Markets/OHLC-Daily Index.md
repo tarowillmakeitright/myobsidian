@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Markets/OHLC-Daily/2026-07-23 07-00 Global OHLC Memo|2026-07-23 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-07-22 07-00 Global OHLC Memo|2026-07-22 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-07-21 07-00 Global OHLC Memo|2026-07-21 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-07-20 07-00 Global OHLC Memo|2026-07-20 07:00 · Global OHLC Memo]]
