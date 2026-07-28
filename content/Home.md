@@ -8,7 +8,7 @@ tags:
 
 # SADO / 今日をひらく
 
-<div class="sado-kicker">MONDAY · 27 JULY 2026</div>
+<div class="sado-kicker">TUESDAY · 28 JULY 2026</div>
 
 > [!abstract] START HERE
 > **18 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
@@ -29,32 +29,54 @@ tags:
 ## New today
 
 > [!tip] NEWEST
-> ### [[Markets/JP-Top20/2026-07-27 16-10 JP Top20 Memo|JP Top20 Memo]]
+> ### [[Markets/JP-Top20/2026-07-28 16-10 JP Top20 Memo|JP Top20 Memo]]
 > `JP Top20` · just added
 
-- [[Deals/AmazonJP/2026-07-27 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
-- [[Signals/X-Digest/2026-07-27 20-02 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
-- [[Markets/Stocks/Buzzing/2026-07-27 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
-- [[Signals/X-Trends/2026-07-27 13-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
-- [[Books/Summary/2026-07-27 10-00 Book Summary|Book Summary]]  <span class="sado-source">Summary</span>
-- [[Books/Popular/2026-07-27 09-30 Popular Books|Popular Books]]  <span class="sado-source">Popular</span>
-- [[Learning/SecDevOps-Magazine/2026-07-27 Weekly SecDevOps Magazine|Weekly SecDevOps Magazine]]  <span class="sado-source">SecDevOps Magazine</span>
-- [[Signals/X-Digest/2026-07-27 08-00 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
-- [[Markets/US-Top20/2026-07-27 07-30 US Top20 Memo|US Top20 Memo]]  <span class="sado-source">US Top20</span>
-- [[Learning/Missions/2026-07-27 07-30 Mission|Mission]]  <span class="sado-source">Missions</span>
-- [[Markets/OHLC-Daily/2026-07-27 07-00 Global OHLC Memo|Global OHLC Memo]]  <span class="sado-source">OHLC Daily</span>
-- [[Tea/Daily/2026-07-27 06-15 茶道マガジン|茶道マガジン]]  <span class="sado-source">Daily</span>
-- [[Markets/Stocks/Buzzing/2026-07-27 06-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
-- [[Signals/X-Trends/2026-07-27 05-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
-- [[News/Nikkei/2026-07-27 05-00 Nikkei News|Nikkei News]]  <span class="sado-source">Nikkei</span>
-- [[Signals/Reddit-Favorites/2026-07-27 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
-- [[Weather/Tokyo/2026-07-27 04-00 Tokyo Weather|Tokyo Weather]]  <span class="sado-source">Tokyo</span>
+- [[Deals/AmazonJP/2026-07-28 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
+- [[Signals/X-Digest/2026-07-28 20-02 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
+- [[Markets/Stocks/Buzzing/2026-07-28 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
+- [[Signals/X-Trends/2026-07-28 13-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
+- [[Books/Summary/2026-07-28 10-00 Book Summary|Book Summary]]  <span class="sado-source">Summary</span>
+- [[Books/Popular/2026-07-28 09-30 Popular Books|Popular Books]]  <span class="sado-source">Popular</span>
+- [[Learning/Linux-Magazine/2026-07-28 Weekly Linux Magazine|Weekly Linux Magazine]]  <span class="sado-source">Linux Magazine</span>
+- [[Signals/X-Digest/2026-07-28 08-00 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
+- [[Markets/US-Top20/2026-07-28 07-30 US Top20 Memo|US Top20 Memo]]  <span class="sado-source">US Top20</span>
+- [[Learning/Missions/2026-07-28 07-30 Mission|Mission]]  <span class="sado-source">Missions</span>
+- [[Markets/OHLC-Daily/2026-07-28 07-00 Global OHLC Memo|Global OHLC Memo]]  <span class="sado-source">OHLC Daily</span>
+- [[Tea/Daily/2026-07-28 06-15 茶道マガジン|茶道マガジン]]  <span class="sado-source">Daily</span>
+- [[Markets/Stocks/Buzzing/2026-07-28 06-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
+- [[Signals/X-Trends/2026-07-28 05-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
+- [[News/Nikkei/2026-07-28 05-00 Nikkei News|Nikkei News]]  <span class="sado-source">Nikkei</span>
+- [[Signals/Reddit-Favorites/2026-07-28 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
+- [[Weather/Tokyo/2026-07-28 04-00 Tokyo Weather|Tokyo Weather]]  <span class="sado-source">Tokyo</span>
 
 ## Catch up
 
 _Missed a day? Every article from the last seven days is here—nothing is hidden._
 
-> [!note]+ YESTERDAY · 26 July · 15 articles
+> [!note]+ YESTERDAY · 27 July · 20 articles
+> - [[Markets/CN-Top20/2026-07-27 16-30 CN Top20 Memo|CN Top20 Memo]]  <span class="sado-source">CN Top20</span>
+> - [[Markets/JP-Top20/2026-07-27 16-10 JP Top20 Memo|JP Top20 Memo]]  <span class="sado-source">JP Top20</span>
+> - [[Signals/X-Trends/2026-07-27 21-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
+> - [[Deals/AmazonJP/2026-07-27 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
+> - [[Signals/X-Digest/2026-07-27 20-02 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
+> - [[Markets/Stocks/Buzzing/2026-07-27 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
+> - [[Signals/X-Trends/2026-07-27 13-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
+> - [[Books/Summary/2026-07-27 10-00 Book Summary|Book Summary]]  <span class="sado-source">Summary</span>
+> - [[Books/Popular/2026-07-27 09-30 Popular Books|Popular Books]]  <span class="sado-source">Popular</span>
+> - [[Learning/SecDevOps-Magazine/2026-07-27 Weekly SecDevOps Magazine|Weekly SecDevOps Magazine]]  <span class="sado-source">SecDevOps Magazine</span>
+> - [[Signals/X-Digest/2026-07-27 08-00 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
+> - [[Markets/US-Top20/2026-07-27 07-30 US Top20 Memo|US Top20 Memo]]  <span class="sado-source">US Top20</span>
+> - [[Learning/Missions/2026-07-27 07-30 Mission|Mission]]  <span class="sado-source">Missions</span>
+> - [[Markets/OHLC-Daily/2026-07-27 07-00 Global OHLC Memo|Global OHLC Memo]]  <span class="sado-source">OHLC Daily</span>
+> - [[Tea/Daily/2026-07-27 06-15 茶道マガジン|茶道マガジン]]  <span class="sado-source">Daily</span>
+> - [[Markets/Stocks/Buzzing/2026-07-27 06-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
+> - [[Signals/X-Trends/2026-07-27 05-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
+> - [[News/Nikkei/2026-07-27 05-00 Nikkei News|Nikkei News]]  <span class="sado-source">Nikkei</span>
+> - [[Signals/Reddit-Favorites/2026-07-27 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
+> - [[Weather/Tokyo/2026-07-27 04-00 Tokyo Weather|Tokyo Weather]]  <span class="sado-source">Tokyo</span>
+
+> [!note]- SUNDAY · 26 July · 15 articles
 > - [[Signals/X-Trends/2026-07-26 21-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
 > - [[Deals/AmazonJP/2026-07-26 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
 > - [[Signals/X-Digest/2026-07-26 20-02 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
@@ -176,28 +198,6 @@ _Missed a day? Every article from the last seven days is here—nothing is hidde
 > - [[Signals/Reddit-Favorites/2026-07-21 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
 > - [[Weather/Tokyo/2026-07-21 04-00 Tokyo Weather|Tokyo Weather]]  <span class="sado-source">Tokyo</span>
 
-> [!note]- MONDAY · 20 July · 20 articles
-> - [[Markets/CN-Top20/2026-07-20 16-30 CN Top20 Memo|CN Top20 Memo]]  <span class="sado-source">CN Top20</span>
-> - [[Signals/X-Trends/2026-07-20 21-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
-> - [[Markets/JP-Top20/2026-07-20 16-10 JP Top20 Memo|JP Top20 Memo]]  <span class="sado-source">JP Top20</span>
-> - [[Deals/AmazonJP/2026-07-20 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
-> - [[Signals/X-Digest/2026-07-20 20-01 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
-> - [[Markets/Stocks/Buzzing/2026-07-20 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
-> - [[Signals/X-Trends/2026-07-20 13-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
-> - [[Books/Summary/2026-07-20 10-00 Book Summary|Book Summary]]  <span class="sado-source">Summary</span>
-> - [[Books/Popular/2026-07-20 09-30 Popular Books|Popular Books]]  <span class="sado-source">Popular</span>
-> - [[Learning/SecDevOps-Magazine/2026-07-20 Weekly SecDevOps Magazine|Weekly SecDevOps Magazine]]  <span class="sado-source">SecDevOps Magazine</span>
-> - [[Signals/X-Digest/2026-07-20 08-00 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
-> - [[Markets/US-Top20/2026-07-20 07-30 US Top20 Memo|US Top20 Memo]]  <span class="sado-source">US Top20</span>
-> - [[Learning/Missions/2026-07-20 07-30 Mission|Mission]]  <span class="sado-source">Missions</span>
-> - [[Markets/OHLC-Daily/2026-07-20 07-00 Global OHLC Memo|Global OHLC Memo]]  <span class="sado-source">OHLC Daily</span>
-> - [[Tea/Daily/2026-07-20 06-15 茶道マガジン|茶道マガジン]]  <span class="sado-source">Daily</span>
-> - [[Markets/Stocks/Buzzing/2026-07-20 06-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
-> - [[Signals/X-Trends/2026-07-20 05-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
-> - [[News/Nikkei/2026-07-20 05-00 Nikkei News|Nikkei News]]  <span class="sado-source">Nikkei</span>
-> - [[Signals/Reddit-Favorites/2026-07-20 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
-> - [[Weather/Tokyo/2026-07-20 04-00 Tokyo Weather|Tokyo Weather]]  <span class="sado-source">Tokyo</span>
-
 ## Collections
 
 _Choose a section. Each opens a dedicated page with its own series and archives._
@@ -207,76 +207,76 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 <div class="sado-collection-title"><a data-href="Books" href="Books" class="internal-link">Books →</a></div>
 <div class="sado-collection-subtitle">読むものを見つけ、あとで深く読む</div>
 
+- [[Books/Summary/2026-07-28 10-00 Book Summary|2026-07-28 10:00 · Book Summary]]
+- [[Books/Popular/2026-07-28 09-30 Popular Books|2026-07-28 09:30 · Popular Books]]
 - [[Books/Summary/2026-07-27 10-00 Book Summary|2026-07-27 10:00 · Book Summary]]
-- [[Books/Popular/2026-07-27 09-30 Popular Books|2026-07-27 09:30 · Popular Books]]
-- [[Books/Summary/2026-07-26 10-00 Book Summary|2026-07-26 10:00 · Book Summary]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Markets" href="Markets" class="internal-link">Markets →</a></div>
 <div class="sado-collection-subtitle">市場・株式・値動きをひとつの入口に</div>
 
-- [[Markets/JP-Top20/2026-07-27 16-10 JP Top20 Memo|2026-07-27 16:10 · JP Top20 Memo]]
-- [[Markets/Stocks/Buzzing/2026-07-27 20-00 Buzzing Stocks|2026-07-27 20:00 · Buzzing Stocks]]
-- [[Markets/US-Top20/2026-07-27 07-30 US Top20 Memo|2026-07-27 07:30 · US Top20 Memo]]
+- [[Markets/JP-Top20/2026-07-28 16-10 JP Top20 Memo|2026-07-28 16:10 · JP Top20 Memo]]
+- [[Markets/Stocks/Buzzing/2026-07-28 20-00 Buzzing Stocks|2026-07-28 20:00 · Buzzing Stocks]]
+- [[Markets/US-Top20/2026-07-28 07-30 US Top20 Memo|2026-07-28 07:30 · US Top20 Memo]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Learning" href="Learning" class="internal-link">Learning →</a></div>
 <div class="sado-collection-subtitle">技術を知識から実践へ</div>
 
+- [[Learning/Linux-Magazine/2026-07-28 Weekly Linux Magazine|2026-07-28 · Weekly Linux Magazine]]
+- [[Learning/Missions/2026-07-28 07-30 Mission|2026-07-28 07:30 · Mission]]
 - [[Learning/SecDevOps-Magazine/2026-07-27 Weekly SecDevOps Magazine|2026-07-27 · Weekly SecDevOps Magazine]]
-- [[Learning/Missions/2026-07-27 07-30 Mission|2026-07-27 07:30 · Mission]]
-- [[Learning/Missions/2026-07-26 07-30 Mission|2026-07-26 07:30 · Mission]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Signals" href="Signals" class="internal-link">Signals →</a></div>
 <div class="sado-collection-subtitle">ウェブとコミュニティの流れを読む</div>
 
-- [[Signals/X-Digest/2026-07-27 20-02 X Digest|2026-07-27 20:02 · X Digest]]
-- [[Signals/X-Trends/2026-07-27 13-43 X Trends|2026-07-27 13:43 · X Trends]]
-- [[Signals/X-Digest/2026-07-27 08-00 X Digest|2026-07-27 08:00 · X Digest]]
+- [[Signals/X-Digest/2026-07-28 20-02 X Digest|2026-07-28 20:02 · X Digest]]
+- [[Signals/X-Trends/2026-07-28 13-43 X Trends|2026-07-28 13:43 · X Trends]]
+- [[Signals/X-Digest/2026-07-28 08-00 X Digest|2026-07-28 08:00 · X Digest]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Tea" href="Tea" class="internal-link">Tea →</a></div>
 <div class="sado-collection-subtitle">静かな朝の一服</div>
 
+- [[Tea/Daily/2026-07-28 06-15 茶道マガジン|2026-07-28 06:15 · 茶道マガジン]]
 - [[Tea/Daily/2026-07-27 06-15 茶道マガジン|2026-07-27 06:15 · 茶道マガジン]]
 - [[Tea/Daily/2026-07-26 06-15 茶道マガジン|2026-07-26 06:15 · 茶道マガジン]]
-- [[Tea/Daily/2026-07-25 06-15 茶道マガジン|2026-07-25 06:15 · 茶道マガジン]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Deals" href="Deals" class="internal-link">Deals →</a></div>
 <div class="sado-collection-subtitle">道具と価格を賢く見る</div>
 
+- [[Deals/AmazonJP/2026-07-28 20-30 Amazon Tech Deals|2026-07-28 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-07-27 20-30 Amazon Tech Deals|2026-07-27 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-07-26 20-30 Amazon Tech Deals|2026-07-26 20:30 · Amazon Tech Deals]]
-- [[Deals/AmazonJP/2026-07-25 20-30 Amazon Tech Deals|2026-07-25 20:30 · Amazon Tech Deals]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="News" href="News" class="internal-link">News →</a></div>
 <div class="sado-collection-subtitle">朝の重要ニュース</div>
 
+- [[News/Nikkei/2026-07-28 05-00 Nikkei News|2026-07-28 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-07-27 05-00 Nikkei News|2026-07-27 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-07-26 05-00 Nikkei News|2026-07-26 05:00 · Nikkei News]]
-- [[News/Nikkei/2026-07-25 05-00 Nikkei News|2026-07-25 05:00 · Nikkei News]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Weather" href="Weather" class="internal-link">Weather →</a></div>
 <div class="sado-collection-subtitle">出かける前の東京</div>
 
+- [[Weather/Tokyo/2026-07-28 04-00 Tokyo Weather|2026-07-28 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-07-27 04-00 Tokyo Weather|2026-07-27 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-07-26 04-00 Tokyo Weather|2026-07-26 04:00 · Tokyo Weather]]
-- [[Weather/Tokyo/2026-07-25 04-00 Tokyo Weather|2026-07-25 04:00 · Tokyo Weather]]
 </div>
 
 </div>
 
 ---
 
-<div class="sado-footer">Refreshed 2026-07-27 21:14 · 2,851 dated articles indexed</div>
+<div class="sado-footer">Refreshed 2026-07-28 21:14 · 2,871 dated articles indexed</div>

@@ -13,21 +13,21 @@ cssclasses:
 
 _流れを短時間で読む_
 
+- [[Signals/X-Digest/2026-07-28 20-02 X Digest|2026-07-28 20:02 · X Digest]]
+- [[Signals/X-Digest/2026-07-28 08-00 X Digest|2026-07-28 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-07-27 20-02 X Digest|2026-07-27 20:02 · X Digest]]
 - [[Signals/X-Digest/2026-07-27 08-00 X Digest|2026-07-27 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-07-26 20-02 X Digest|2026-07-26 20:02 · X Digest]]
-- [[Signals/X-Digest/2026-07-26 08-00 X Digest|2026-07-26 08:00 · X Digest]]
-- [[Signals/X-Digest/2026-07-25 20-02 X Digest|2026-07-25 20:02 · X Digest]]
 
 ## [[Signals/X-Trends Index|X Trends →]]
 
 _いま起きていること_
 
+- [[Signals/X-Trends/2026-07-28 13-43 X Trends|2026-07-28 13:43 · X Trends]]
+- [[Signals/X-Trends/2026-07-28 05-43 X Trends|2026-07-28 05:43 · X Trends]]
+- [[Signals/X-Trends/2026-07-27 21-43 X Trends|2026-07-27 21:43 · X Trends]]
 - [[Signals/X-Trends/2026-07-27 13-43 X Trends|2026-07-27 13:43 · X Trends]]
 - [[Signals/X-Trends/2026-07-27 05-43 X Trends|2026-07-27 05:43 · X Trends]]
-- [[Signals/X-Trends/2026-07-26 21-43 X Trends|2026-07-26 21:43 · X Trends]]
-- [[Signals/X-Trends/2026-07-26 13-43 X Trends|2026-07-26 13:43 · X Trends]]
-- [[Signals/X-Trends/2026-07-26 05-43 X Trends|2026-07-26 05:43 · X Trends]]
 
 ## [[Signals/Reddit-OpenClaw Index|Reddit OpenClaw →]]
 
@@ -39,9 +39,9 @@ _コミュニティの発見_
 
 _保存した話題を再発見_
 
+- [[Signals/Reddit-Favorites/2026-07-28 04-38 Reddit Favorites Digest|2026-07-28 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-27 04-38 Reddit Favorites Digest|2026-07-27 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-26 04-38 Reddit Favorites Digest|2026-07-26 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-25 04-38 Reddit Favorites Digest|2026-07-25 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-24 04-38 Reddit Favorites Digest|2026-07-24 04:38 · Reddit Favorites Digest]]
-- [[Signals/Reddit-Favorites/2026-07-23 04-38 Reddit Favorites Digest|2026-07-23 04:38 · Reddit Favorites Digest]]
 
