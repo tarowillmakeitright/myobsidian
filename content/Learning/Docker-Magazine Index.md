@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/Docker-Magazine/2026-07-29 Weekly Docker Magazine|2026-07-29 · Weekly Docker Magazine]]
 - [[Learning/Docker-Magazine/2026-07-22 Weekly Docker Magazine|2026-07-22 · Weekly Docker Magazine]]
 - [[Learning/Docker-Magazine/2026-07-15 09-20 Docker Commands Magazine|2026-07-15 09:20 · Docker Commands Magazine]]
 - [[Learning/Docker-Magazine/2026-07-14 09-20 Docker Commands Magazine|2026-07-14 09:20 · Docker Commands Magazine]]
