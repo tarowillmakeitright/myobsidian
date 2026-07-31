@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/Cloud-Engineer-Magazine/2026-07-31 Weekly Cloud Engineer Magazine|2026-07-31 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-24 Weekly Cloud Engineer Magazine|2026-07-24 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-17 Weekly Cloud Engineer Magazine|2026-07-17 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-15 10-15 Cloud Engineer Magazine|2026-07-15 10:15 · Cloud Engineer Magazine]]

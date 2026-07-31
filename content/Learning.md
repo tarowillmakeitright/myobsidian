@@ -13,21 +13,21 @@ cssclasses:
 
 _今日の小さな実践_
 
+- [[Learning/Missions/2026-07-31 07-30 Mission|2026-07-31 07:30 · Mission]]
 - [[Learning/Missions/2026-07-30 07-30 Mission|2026-07-30 07:30 · Mission]]
 - [[Learning/Missions/2026-07-29 07-30 Mission|2026-07-29 07:30 · Mission]]
 - [[Learning/Missions/2026-07-28 07-30 Mission|2026-07-28 07:30 · Mission]]
 - [[Learning/Missions/2026-07-27 07-30 Mission|2026-07-27 07:30 · Mission]]
-- [[Learning/Missions/2026-07-26 07-30 Mission|2026-07-26 07:30 · Mission]]
 
 ## [[Learning/Cloud-Engineer-Magazine Index|Cloud Engineer →]]
 
 _クラウド設計と実践_
 
+- [[Learning/Cloud-Engineer-Magazine/2026-07-31 Weekly Cloud Engineer Magazine|2026-07-31 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-24 Weekly Cloud Engineer Magazine|2026-07-24 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-17 Weekly Cloud Engineer Magazine|2026-07-17 · Weekly Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-15 10-15 Cloud Engineer Magazine|2026-07-15 10:15 · Cloud Engineer Magazine]]
 - [[Learning/Cloud-Engineer-Magazine/2026-07-14 10-15 Cloud Engineer Magazine|2026-07-14 10:15 · Cloud Engineer Magazine]]
-- [[Learning/Cloud-Engineer-Magazine/2026-07-12 10-15 Cloud Engineer Magazine|2026-07-12 10:15 · Cloud Engineer Magazine]]
 
 ## [[Learning/SecDevOps-Magazine Index|Security + DevOps →]]
 
