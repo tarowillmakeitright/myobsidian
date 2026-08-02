@@ -23,11 +23,11 @@ _流れを短時間で読む_
 
 _いま起きていること_
 
+- [[Signals/X-Trends/2026-08-03 05-43 X Trends|2026-08-03 05:43 · X Trends]]
+- [[Signals/X-Trends/2026-08-02 21-43 X Trends|2026-08-02 21:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-02 13-43 X Trends|2026-08-02 13:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-02 05-43 X Trends|2026-08-02 05:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-01 21-43 X Trends|2026-08-01 21:43 · X Trends]]
-- [[Signals/X-Trends/2026-08-01 13-43 X Trends|2026-08-01 13:43 · X Trends]]
-- [[Signals/X-Trends/2026-08-01 05-43 X Trends|2026-08-01 05:43 · X Trends]]
 
 ## [[Signals/Reddit-OpenClaw Index|Reddit OpenClaw →]]
 
@@ -39,9 +39,9 @@ _コミュニティの発見_
 
 _保存した話題を再発見_
 
+- [[Signals/Reddit-Favorites/2026-08-03 04-38 Reddit Favorites Digest|2026-08-03 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-08-02 04-38 Reddit Favorites Digest|2026-08-02 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-08-01 04-38 Reddit Favorites Digest|2026-08-01 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-31 04-41 Reddit Favorites Digest|2026-07-31 04:41 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-07-30 04-38 Reddit Favorites Digest|2026-07-30 04:38 · Reddit Favorites Digest]]
-- [[Signals/Reddit-Favorites/2026-07-29 04-38 Reddit Favorites Digest|2026-07-29 04:38 · Reddit Favorites Digest]]
 
