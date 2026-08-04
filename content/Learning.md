@@ -43,11 +43,11 @@ _守る・運ぶ・運用する_
 
 _コマンドから仕組みへ_
 
+- [[Learning/Linux-Magazine/2026-08-04 Weekly Linux Magazine|2026-08-04 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-07-28 Weekly Linux Magazine|2026-07-28 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-07-21 Weekly Linux Magazine|2026-07-21 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-07-15 09-15 Linux Commands Magazine|2026-07-15 09:15 · Linux Commands Magazine]]
 - [[Learning/Linux-Magazine/2026-07-14 09-15 Linux Commands Magazine|2026-07-14 09:15 · Linux Commands Magazine]]
-- [[Learning/Linux-Magazine/2026-07-13 09-15 Linux Commands Magazine|2026-07-13 09:15 · Linux Commands Magazine]]
 
 ## [[Learning/Docker-Magazine Index|Docker →]]
 
