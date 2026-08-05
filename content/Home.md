@@ -11,7 +11,7 @@ tags:
 <div class="sado-kicker">WEDNESDAY · 05 AUGUST 2026</div>
 
 > [!abstract] START HERE
-> **18 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
+> **19 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
 >
 > [[#New today|New today]] · [[#Catch up|Catch up]] · [[#Collections|Collections]]
 
@@ -32,6 +32,7 @@ tags:
 > ### [[Markets/JP-Top20/2026-08-05 16-10 JP Top20 Memo|JP Top20 Memo]]
 > `JP Top20` · just added
 
+- [[Signals/X-Trends/2026-08-05 21-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
 - [[Deals/AmazonJP/2026-08-05 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
 - [[Signals/X-Digest/2026-08-05 20-02 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
 - [[Markets/Stocks/Buzzing/2026-08-05 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
@@ -234,9 +235,9 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 <div class="sado-collection-title"><a data-href="Signals" href="Signals" class="internal-link">Signals →</a></div>
 <div class="sado-collection-subtitle">ウェブとコミュニティの流れを読む</div>
 
+- [[Signals/X-Trends/2026-08-05 21-43 X Trends|2026-08-05 21:43 · X Trends]]
 - [[Signals/X-Digest/2026-08-05 20-02 X Digest|2026-08-05 20:02 · X Digest]]
 - [[Signals/X-Trends/2026-08-05 13-43 X Trends|2026-08-05 13:43 · X Trends]]
-- [[Signals/X-Digest/2026-08-05 08-00 X Digest|2026-08-05 08:00 · X Digest]]
 </div>
 
 <div class="sado-collection">
@@ -279,4 +280,4 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 
 ---
 
-<div class="sado-footer">Refreshed 2026-08-05 21:14 · 3,021 dated articles indexed</div>
+<div class="sado-footer">Refreshed 2026-08-05 22:10 · 3,022 dated articles indexed</div>

@@ -23,11 +23,11 @@ _流れを短時間で読む_
 
 _いま起きていること_
 
+- [[Signals/X-Trends/2026-08-05 21-43 X Trends|2026-08-05 21:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-05 13-43 X Trends|2026-08-05 13:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-05 05-43 X Trends|2026-08-05 05:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-04 21-43 X Trends|2026-08-04 21:43 · X Trends]]
 - [[Signals/X-Trends/2026-08-04 13-43 X Trends|2026-08-04 13:43 · X Trends]]
-- [[Signals/X-Trends/2026-08-04 05-43 X Trends|2026-08-04 05:43 · X Trends]]
 
 ## [[Signals/Reddit-OpenClaw Index|Reddit OpenClaw →]]
 
