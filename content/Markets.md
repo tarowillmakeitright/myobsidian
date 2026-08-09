@@ -13,21 +13,21 @@ cssclasses:
 
 _世界の値動きを一望_
 
+- [[Markets/OHLC-Daily/2026-08-10 07-00 Global OHLC Memo|2026-08-10 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-07 07-00 Global OHLC Memo|2026-08-07 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-06 07-00 Global OHLC Memo|2026-08-06 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-05 07-00 Global OHLC Memo|2026-08-05 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-04 07-00 Global OHLC Memo|2026-08-04 07:00 · Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-08-03 07-00 Global OHLC Memo|2026-08-03 07:00 · Global OHLC Memo]]
 
 ## [[Markets/US-Top20 Index|US Top20 →]]
 
 _米国市場の主役_
 
+- [[Markets/US-Top20/2026-08-10 07-30 US Top20 Memo|2026-08-10 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-07 07-30 US Top20 Memo|2026-08-07 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-06 07-30 US Top20 Memo|2026-08-06 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-05 07-30 US Top20 Memo|2026-08-05 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-04 07-30 US Top20 Memo|2026-08-04 07:30 · US Top20 Memo]]
-- [[Markets/US-Top20/2026-08-03 07-30 US Top20 Memo|2026-08-03 07:30 · US Top20 Memo]]
 
 ## [[Markets/JP-Top20 Index|JP Top20 →]]
 

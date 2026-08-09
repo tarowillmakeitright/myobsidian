@@ -11,7 +11,7 @@ tags:
 <div class="sado-kicker">MONDAY · 10 AUGUST 2026</div>
 
 > [!abstract] START HERE
-> **5 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
+> **10 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
 >
 > [[#New today|New today]] · [[#Catch up|Catch up]] · [[#Collections|Collections]]
 
@@ -29,9 +29,14 @@ tags:
 ## New today
 
 > [!tip] NEWEST
-> ### [[Markets/Stocks/Buzzing/2026-08-10 06-00 Buzzing Stocks|Buzzing Stocks]]
-> `Buzzing` · just added
+> ### [[Signals/X-Digest/2026-08-10 08-00 X Digest|X Digest]]
+> `X Digest` · just added
 
+- [[Markets/US-Top20/2026-08-10 07-30 US Top20 Memo|US Top20 Memo]]  <span class="sado-source">US Top20</span>
+- [[Learning/Missions/2026-08-10 07-30 Mission|Mission]]  <span class="sado-source">Missions</span>
+- [[Markets/OHLC-Daily/2026-08-10 07-00 Global OHLC Memo|Global OHLC Memo]]  <span class="sado-source">OHLC Daily</span>
+- [[Tea/Daily/2026-08-10 06-15 茶道マガジン|茶道マガジン]]  <span class="sado-source">Daily</span>
+- [[Markets/Stocks/Buzzing/2026-08-10 06-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
 - [[News/Nikkei/2026-08-10 05-00 Nikkei News|Nikkei News]]  <span class="sado-source">Nikkei</span>
 - [[Signals/X-Trends/2026-08-10 04-43 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
 - [[Signals/Reddit-Favorites/2026-08-10 04-38 Reddit Favorites Digest|Reddit Favorites Digest]]  <span class="sado-source">Reddit Favorites</span>
@@ -199,36 +204,36 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 <div class="sado-collection-title"><a data-href="Markets" href="Markets" class="internal-link">Markets →</a></div>
 <div class="sado-collection-subtitle">市場・株式・値動きをひとつの入口に</div>
 
+- [[Markets/US-Top20/2026-08-10 07-30 US Top20 Memo|2026-08-10 07:30 · US Top20 Memo]]
+- [[Markets/OHLC-Daily/2026-08-10 07-00 Global OHLC Memo|2026-08-10 07:00 · Global OHLC Memo]]
 - [[Markets/Stocks/Buzzing/2026-08-10 06-00 Buzzing Stocks|2026-08-10 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-09 20-00 Buzzing Stocks|2026-08-09 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-09 06-00 Buzzing Stocks|2026-08-09 06:00 · Buzzing Stocks]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Learning" href="Learning" class="internal-link">Learning →</a></div>
 <div class="sado-collection-subtitle">技術を知識から実践へ</div>
 
+- [[Learning/Missions/2026-08-10 07-30 Mission|2026-08-10 07:30 · Mission]]
 - [[Learning/Missions/2026-08-09 07-30 Mission|2026-08-09 07:30 · Mission]]
 - [[Learning/Cloud-Engineer-Magazine/2026-08-07 Weekly Cloud Engineer Magazine|2026-08-07 · Weekly Cloud Engineer Magazine]]
-- [[Learning/Missions/2026-08-07 07-30 Mission|2026-08-07 07:30 · Mission]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Signals" href="Signals" class="internal-link">Signals →</a></div>
 <div class="sado-collection-subtitle">ウェブとコミュニティの流れを読む</div>
 
+- [[Signals/X-Digest/2026-08-10 08-00 X Digest|2026-08-10 08:00 · X Digest]]
 - [[Signals/X-Trends/2026-08-10 04-43 X Trends|2026-08-10 04:43 · X Trends]]
 - [[Signals/Reddit-Favorites/2026-08-10 04-38 Reddit Favorites Digest|2026-08-10 04:38 · Reddit Favorites Digest]]
-- [[Signals/X-Trends/2026-08-09 20-41 X Trends|2026-08-09 20:41 · X Trends]]
 </div>
 
 <div class="sado-collection">
 <div class="sado-collection-title"><a data-href="Tea" href="Tea" class="internal-link">Tea →</a></div>
 <div class="sado-collection-subtitle">静かな朝の一服</div>
 
+- [[Tea/Daily/2026-08-10 06-15 茶道マガジン|2026-08-10 06:15 · 茶道マガジン]]
 - [[Tea/Daily/2026-08-09 06-15 茶道マガジン|2026-08-09 06:15 · 茶道マガジン]]
 - [[Tea/Daily/2026-08-08 06-15 茶道マガジン|2026-08-08 06:15 · 茶道マガジン]]
-- [[Tea/Daily/2026-08-07 06-15 茶道マガジン|2026-08-07 06:15 · 茶道マガジン]]
 </div>
 
 <div class="sado-collection">
@@ -262,4 +267,4 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 
 ---
 
-<div class="sado-footer">Refreshed 2026-08-10 06:13 · 3,094 dated articles indexed</div>
+<div class="sado-footer">Refreshed 2026-08-10 08:10 · 3,099 dated articles indexed</div>
