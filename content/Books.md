@@ -13,11 +13,11 @@ cssclasses:
 
 _いま注目の本_
 
+- [[Books/Popular/2026-08-10 09-30 Popular Books|2026-08-10 09:30 · Popular Books]]
 - [[Books/Popular/2026-08-09 09-30 Popular Books|2026-08-09 09:30 · Popular Books]]
 - [[Books/Popular/2026-08-08 09-30 Popular Books|2026-08-08 09:30 · Popular Books]]
 - [[Books/Popular/2026-08-07 09-30 Popular Books|2026-08-07 09:30 · Popular Books]]
 - [[Books/Popular/2026-08-06 09-30 Popular Books|2026-08-06 09:30 · Popular Books]]
-- [[Books/Popular/2026-08-05 09-30 Popular Books|2026-08-05 09:30 · Popular Books]]
 
 ## [[Books/Summary Index|Summary →]]
 

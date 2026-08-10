@@ -33,11 +33,11 @@ _クラウド設計と実践_
 
 _守る・運ぶ・運用する_
 
+- [[Learning/SecDevOps-Magazine/2026-08-10 Weekly SecDevOps Magazine|2026-08-10 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-08-03 Weekly SecDevOps Magazine|2026-08-03 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-27 Weekly SecDevOps Magazine|2026-07-27 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-20 Weekly SecDevOps Magazine|2026-07-20 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-07-15 09-00 SecDevOps Magazine|2026-07-15 09:00 · SecDevOps Magazine]]
-- [[Learning/SecDevOps-Magazine/2026-07-13 09-00 SecDevOps Magazine|2026-07-13 09:00 · SecDevOps Magazine]]
 
 ## [[Learning/Linux-Magazine Index|Linux →]]
 
