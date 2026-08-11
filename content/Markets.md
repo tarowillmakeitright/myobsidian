@@ -13,51 +13,51 @@ cssclasses:
 
 _世界の値動きを一望_
 
+- [[Markets/OHLC-Daily/2026-08-11 07-00 Global OHLC Memo|2026-08-11 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-10 07-00 Global OHLC Memo|2026-08-10 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-07 07-00 Global OHLC Memo|2026-08-07 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-06 07-00 Global OHLC Memo|2026-08-06 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-05 07-00 Global OHLC Memo|2026-08-05 07:00 · Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-08-04 07-00 Global OHLC Memo|2026-08-04 07:00 · Global OHLC Memo]]
 
 ## [[Markets/US-Top20 Index|US Top20 →]]
 
 _米国市場の主役_
 
+- [[Markets/US-Top20/2026-08-11 07-30 US Top20 Memo|2026-08-11 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-10 07-30 US Top20 Memo|2026-08-10 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-07 07-30 US Top20 Memo|2026-08-07 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-06 07-30 US Top20 Memo|2026-08-06 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-08-05 07-30 US Top20 Memo|2026-08-05 07:30 · US Top20 Memo]]
-- [[Markets/US-Top20/2026-08-04 07-30 US Top20 Memo|2026-08-04 07:30 · US Top20 Memo]]
 
 ## [[Markets/JP-Top20 Index|JP Top20 →]]
 
 _日本市場の主役_
 
+- [[Markets/JP-Top20/2026-08-11 16-10 JP Top20 Memo|2026-08-11 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-10 16-10 JP Top20 Memo|2026-08-10 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-07 16-10 JP Top20 Memo|2026-08-07 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-06 16-10 JP Top20 Memo|2026-08-06 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-05 16-10 JP Top20 Memo|2026-08-05 16:10 · JP Top20 Memo]]
-- [[Markets/JP-Top20/2026-08-04 16-10 JP Top20 Memo|2026-08-04 16:10 · JP Top20 Memo]]
 
 ## [[Markets/CN-Top20 Index|CN Top20 →]]
 
 _中国市場の主役_
 
+- [[Markets/CN-Top20/2026-08-10 16-30 CN Top20 Memo|2026-08-10 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-07 16-30 CN Top20 Memo|2026-08-07 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-06 16-30 CN Top20 Memo|2026-08-06 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-05 16-30 CN Top20 Memo|2026-08-05 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-04 16-30 CN Top20 Memo|2026-08-04 16:30 · CN Top20 Memo]]
-- [[Markets/CN-Top20/2026-08-03 16-30 CN Top20 Memo|2026-08-03 16:30 · CN Top20 Memo]]
 
 ## [[Markets/Stocks/Buzzing Index|Buzzing Stocks →]]
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-08-11 20-00 Buzzing Stocks|2026-08-11 20:00 · Buzzing Stocks]]
+- [[Markets/Stocks/Buzzing/2026-08-11 06-00 Buzzing Stocks|2026-08-11 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-10 20-00 Buzzing Stocks|2026-08-10 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-10 06-00 Buzzing Stocks|2026-08-10 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-09 20-00 Buzzing Stocks|2026-08-09 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-09 06-00 Buzzing Stocks|2026-08-09 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-08 20-00 Buzzing Stocks|2026-08-08 20:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
