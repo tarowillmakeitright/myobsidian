@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Markets/CN-Top20/2026-08-11 16-30 CN Top20 Memo|2026-08-11 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-10 16-30 CN Top20 Memo|2026-08-10 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-07 16-30 CN Top20 Memo|2026-08-07 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-06 16-30 CN Top20 Memo|2026-08-06 16:30 · CN Top20 Memo]]
