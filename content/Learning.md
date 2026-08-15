@@ -13,11 +13,11 @@ cssclasses:
 
 _今日の小さな実践_
 
+- [[Learning/Missions/2026-08-15 07-30 Mission|2026-08-15 07:30 · Mission]]
 - [[Learning/Missions/2026-08-14 07-30 Mission|2026-08-14 07:30 · Mission]]
 - [[Learning/Missions/2026-08-13 07-30 Mission|2026-08-13 07:30 · Mission]]
 - [[Learning/Missions/2026-08-12 07-30 Mission|2026-08-12 07:30 · Mission]]
 - [[Learning/Missions/2026-08-11 07-30 Mission|2026-08-11 07:30 · Mission]]
-- [[Learning/Missions/2026-08-10 07-30 Mission|2026-08-10 07:30 · Mission]]
 
 ## [[Learning/Cloud-Engineer-Magazine Index|Cloud Engineer →]]
 
