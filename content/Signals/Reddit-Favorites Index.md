@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Signals/Reddit-Favorites/2026-08-18 04-38 Reddit Favorites Digest|2026-08-18 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-08-17 04-38 Reddit Favorites Digest|2026-08-17 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-08-16 04-38 Reddit Favorites Digest|2026-08-16 04:38 · Reddit Favorites Digest]]
 - [[Signals/Reddit-Favorites/2026-08-15 04-38 Reddit Favorites Digest|2026-08-15 04:38 · Reddit Favorites Digest]]
