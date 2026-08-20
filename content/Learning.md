@@ -13,11 +13,11 @@ cssclasses:
 
 _今日の小さな実践_
 
+- [[Learning/Missions/2026-08-20 07-30 Mission|2026-08-20 07:30 · Mission]]
 - [[Learning/Missions/2026-08-19 07-30 Mission|2026-08-19 07:30 · Mission]]
 - [[Learning/Missions/2026-08-18 07-30 Mission|2026-08-18 07:30 · Mission]]
 - [[Learning/Missions/2026-08-17 07-30 Mission|2026-08-17 07:30 · Mission]]
 - [[Learning/Missions/2026-08-16 07-30 Mission|2026-08-16 07:30 · Mission]]
-- [[Learning/Missions/2026-08-15 07-30 Mission|2026-08-15 07:30 · Mission]]
 
 ## [[Learning/Cloud-Engineer-Magazine Index|Cloud Engineer →]]
 
@@ -63,9 +63,9 @@ _コンテナを深く理解する_
 
 _オーケストレーションを深く_
 
+- [[Learning/Kubernetes-Magazine/2026-08-20 Weekly Kubernetes Magazine|2026-08-20 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-08-13 Weekly Kubernetes Magazine|2026-08-13 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-08-06 Weekly Kubernetes Magazine|2026-08-06 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-07-30 Weekly Kubernetes Magazine|2026-07-30 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-07-23 Weekly Kubernetes Magazine|2026-07-23 · Weekly Kubernetes Magazine]]
-- [[Learning/Kubernetes-Magazine/2026-07-16 Weekly Kubernetes Magazine|2026-07-16 · Weekly Kubernetes Magazine]]
 
