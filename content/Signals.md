@@ -13,21 +13,21 @@ cssclasses:
 
 _流れを短時間で読む_
 
+- [[Signals/X-Digest/2026-08-24 20-02 X Digest|2026-08-24 20:02 · X Digest]]
+- [[Signals/X-Digest/2026-08-24 08-00 X Digest|2026-08-24 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-08-23 20-02 X Digest|2026-08-23 20:02 · X Digest]]
 - [[Signals/X-Digest/2026-08-23 08-00 X Digest|2026-08-23 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-08-22 20-02 X Digest|2026-08-22 20:02 · X Digest]]
-- [[Signals/X-Digest/2026-08-22 08-00 X Digest|2026-08-22 08:00 · X Digest]]
-- [[Signals/X-Digest/2026-08-21 20-02 X Digest|2026-08-21 20:02 · X Digest]]
 
 ## [[Signals/X-Trends Index|X Trends →]]
 
 _いま起きていること_
 
+- [[Signals/X-Trends/2026-08-24 20-46 X Trends|2026-08-24 20:46 · X Trends]]
+- [[Signals/X-Trends/2026-08-24 12-46 X Trends|2026-08-24 12:46 · X Trends]]
 - [[Signals/X-Trends/2026-08-24 04-46 X Trends|2026-08-24 04:46 · X Trends]]
 - [[Signals/X-Trends/2026-08-23 20-46 X Trends|2026-08-23 20:46 · X Trends]]
 - [[Signals/X-Trends/2026-08-23 12-46 X Trends|2026-08-23 12:46 · X Trends]]
-- [[Signals/X-Trends/2026-08-23 04-46 X Trends|2026-08-23 04:46 · X Trends]]
-- [[Signals/X-Trends/2026-08-22 20-46 X Trends|2026-08-22 20:46 · X Trends]]
 
 ## [[Signals/Reddit-OpenClaw Index|Reddit OpenClaw →]]
 
