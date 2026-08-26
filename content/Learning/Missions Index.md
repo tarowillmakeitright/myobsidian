@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/Missions/2026-08-26 07-30 Mission|2026-08-26 07:30 · Mission]]
 - [[Learning/Missions/2026-08-25 07-30 Mission|2026-08-25 07:30 · Mission]]
 - [[Learning/Missions/2026-08-24 07-30 Mission|2026-08-24 07:30 · Mission]]
 - [[Learning/Missions/2026-08-23 07-30 Mission|2026-08-23 07:30 · Mission]]
