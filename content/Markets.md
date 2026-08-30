@@ -53,11 +53,11 @@ _中国市場の主役_
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-08-30 20-00 Buzzing Stocks|2026-08-30 20:00 · Buzzing Stocks]]
+- [[Markets/Stocks/Buzzing/2026-08-30 06-00 Buzzing Stocks|2026-08-30 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-29 20-00 Buzzing Stocks|2026-08-29 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-29 06-00 Buzzing Stocks|2026-08-29 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-28 20-00 Buzzing Stocks|2026-08-28 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-28 06-00 Buzzing Stocks|2026-08-28 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-27 20-00 Buzzing Stocks|2026-08-27 20:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
