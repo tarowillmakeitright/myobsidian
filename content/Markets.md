@@ -13,11 +13,11 @@ cssclasses:
 
 _世界の値動きを一望_
 
+- [[Markets/OHLC-Daily/2026-08-31 07-00 Global OHLC Memo|2026-08-31 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-28 07-00 Global OHLC Memo|2026-08-28 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-27 07-00 Global OHLC Memo|2026-08-27 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-26 07-00 Global OHLC Memo|2026-08-26 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-08-25 07-00 Global OHLC Memo|2026-08-25 07:00 · Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-08-24 07-00 Global OHLC Memo|2026-08-24 07:00 · Global OHLC Memo]]
 
 ## [[Markets/US-Top20 Index|US Top20 →]]
 
@@ -53,11 +53,11 @@ _中国市場の主役_
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-08-31 06-00 Buzzing Stocks|2026-08-31 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-30 20-00 Buzzing Stocks|2026-08-30 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-30 06-00 Buzzing Stocks|2026-08-30 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-29 20-00 Buzzing Stocks|2026-08-29 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-08-29 06-00 Buzzing Stocks|2026-08-29 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-08-28 20-00 Buzzing Stocks|2026-08-28 20:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
