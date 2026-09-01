@@ -13,9 +13,9 @@ cssclasses:
 
 _今日と最近の天気_
 
+- [[Weather/Tokyo/2026-09-01 04-00 Tokyo Weather|2026-09-01 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-08-31 04-00 Tokyo Weather|2026-08-31 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-08-30 04-00 Tokyo Weather|2026-08-30 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-08-29 04-00 Tokyo Weather|2026-08-29 04:00 · Tokyo Weather]]
 - [[Weather/Tokyo/2026-08-28 04-00 Tokyo Weather|2026-08-28 04:00 · Tokyo Weather]]
-- [[Weather/Tokyo/2026-08-27 04-00 Tokyo Weather|2026-08-27 04:00 · Tokyo Weather]]
 

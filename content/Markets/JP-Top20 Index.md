@@ -11,6 +11,8 @@ cssclasses:
 
 ## Latest articles
 
+- [[Markets/JP-Top20/2026-09-01 16-10 JP Top20 Memo|2026-09-01 16:10 · JP Top20 Memo]]
+- [[Markets/JP-Top20/2026-08-31 16-10 JP Top20 Memo|2026-08-31 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-28 16-10 JP Top20 Memo|2026-08-28 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-27 16-10 JP Top20 Memo|2026-08-27 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-08-26 16-10 JP Top20 Memo|2026-08-26 16:10 · JP Top20 Memo]]
