@@ -43,21 +43,21 @@ _日本市場の主役_
 
 _中国市場の主役_
 
+- [[Markets/CN-Top20/2026-09-04 16-30 CN Top20 Memo|2026-09-04 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-09-02 16-30 CN Top20 Memo|2026-09-02 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-31 16-30 CN Top20 Memo|2026-08-31 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-28 16-30 CN Top20 Memo|2026-08-28 16:30 · CN Top20 Memo]]
 - [[Markets/CN-Top20/2026-08-27 16-30 CN Top20 Memo|2026-08-27 16:30 · CN Top20 Memo]]
-- [[Markets/CN-Top20/2026-08-26 16-30 CN Top20 Memo|2026-08-26 16:30 · CN Top20 Memo]]
 
 ## [[Markets/Stocks/Buzzing Index|Buzzing Stocks →]]
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-09-05 20-06 Buzzing Stocks|2026-09-05 20:06 · Buzzing Stocks]]
+- [[Markets/Stocks/Buzzing/2026-09-05 06-00 Buzzing Stocks|2026-09-05 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-04 20-00 Buzzing Stocks|2026-09-04 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-04 06-00 Buzzing Stocks|2026-09-04 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-03 20-00 Buzzing Stocks|2026-09-03 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-09-03 06-00 Buzzing Stocks|2026-09-03 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-09-02 20-00 Buzzing Stocks|2026-09-02 20:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
