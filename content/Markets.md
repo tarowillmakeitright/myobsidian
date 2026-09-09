@@ -13,21 +13,21 @@ cssclasses:
 
 _世界の値動きを一望_
 
+- [[Markets/OHLC-Daily/2026-09-09 07-00 Global OHLC Memo|2026-09-09 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-09-08 07-00 Global OHLC Memo|2026-09-08 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-09-07 07-00 Global OHLC Memo|2026-09-07 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-09-04 07-00 Global OHLC Memo|2026-09-04 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-09-03 07-00 Global OHLC Memo|2026-09-03 07:00 · Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-09-02 07-00 Global OHLC Memo|2026-09-02 07:00 · Global OHLC Memo]]
 
 ## [[Markets/US-Top20 Index|US Top20 →]]
 
 _米国市場の主役_
 
+- [[Markets/US-Top20/2026-09-09 07-30 US Top20 Memo|2026-09-09 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-09-08 07-30 US Top20 Memo|2026-09-08 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-09-07 07-30 US Top20 Memo|2026-09-07 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-09-04 07-30 US Top20 Memo|2026-09-04 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-09-03 07-30 US Top20 Memo|2026-09-03 07:30 · US Top20 Memo]]
-- [[Markets/US-Top20/2026-09-02 07-30 US Top20 Memo|2026-09-02 07:30 · US Top20 Memo]]
 
 ## [[Markets/JP-Top20 Index|JP Top20 →]]
 
@@ -53,11 +53,11 @@ _中国市場の主役_
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-09-09 20-00 Buzzing Stocks|2026-09-09 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-09 06-00 Buzzing Stocks|2026-09-09 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-08 20-00 Buzzing Stocks|2026-09-08 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-08 06-00 Buzzing Stocks|2026-09-08 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-09-07 20-00 Buzzing Stocks|2026-09-07 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-09-07 06-00 Buzzing Stocks|2026-09-07 06:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
