@@ -13,19 +13,19 @@ cssclasses:
 
 _いま注目の本_
 
+- [[Books/Popular/2026-09-15 09-30 Popular Books|2026-09-15 09:30 · Popular Books]]
 - [[Books/Popular/2026-09-14 09-30 Popular Books|2026-09-14 09:30 · Popular Books]]
 - [[Books/Popular/2026-09-13 09-30 Popular Books|2026-09-13 09:30 · Popular Books]]
 - [[Books/Popular/2026-09-12 09-30 Popular Books|2026-09-12 09:30 · Popular Books]]
 - [[Books/Popular/2026-09-11 09-30 Popular Books|2026-09-11 09:30 · Popular Books]]
-- [[Books/Popular/2026-09-04 09-30 Popular Books|2026-09-04 09:30 · Popular Books]]
 
 ## [[Books/Summary Index|Summary →]]
 
 _一冊を短時間でつかむ_
 
+- [[Books/Summary/2026-09-15 10-00 Book Summary|2026-09-15 10:00 · Book Summary]]
 - [[Books/Summary/2026-09-14 10-00 Book Summary|2026-09-14 10:00 · Book Summary]]
 - [[Books/Summary/2026-09-13 10-00 Book Summary|2026-09-13 10:00 · Book Summary]]
 - [[Books/Summary/2026-09-12 10-00 Book Summary|2026-09-12 10:00 · Book Summary]]
 - [[Books/Summary/2026-09-11 10-00 Book Summary|2026-09-11 10:00 · Book Summary]]
-- [[Books/Summary/2026-09-04 10-00 Book Summary|2026-09-04 10:00 · Book Summary]]
 
