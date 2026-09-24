@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Learning/Kubernetes-Magazine/2026-09-24 Weekly Kubernetes Magazine|2026-09-24 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-09-17 Weekly Kubernetes Magazine|2026-09-17 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-08-27 Weekly Kubernetes Magazine|2026-08-27 · Weekly Kubernetes Magazine]]
 - [[Learning/Kubernetes-Magazine/2026-08-20 Weekly Kubernetes Magazine|2026-08-20 · Weekly Kubernetes Magazine]]
