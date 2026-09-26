@@ -11,7 +11,7 @@ tags:
 <div class="sado-kicker">THURSDAY · 24 SEPTEMBER 2026</div>
 
 > [!abstract] START HERE
-> **18 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
+> **20 new articles today.** まず今日を読み、次に Catch Up で見逃した号へ。
 >
 > [[#New today|New today]] · [[#Catch up|Catch up]] · [[#Collections|Collections]]
 
@@ -29,9 +29,11 @@ tags:
 ## New today
 
 > [!tip] NEWEST
-> ### [[Signals/X-Trends/2026-09-24 20-39 X Trends|X Trends]]
-> `X Trends` · just added
+> ### [[Markets/CN-Top20/2026-09-24 16-30 CN Top20 Memo|CN Top20 Memo]]
+> `CN Top20` · just added
 
+- [[Markets/JP-Top20/2026-09-24 16-10 JP Top20 Memo|JP Top20 Memo]]  <span class="sado-source">JP Top20</span>
+- [[Signals/X-Trends/2026-09-24 20-39 X Trends|X Trends]]  <span class="sado-source">X Trends</span>
 - [[Deals/AmazonJP/2026-09-24 20-30 Amazon Tech Deals|Amazon Tech Deals]]  <span class="sado-source">AmazonJP</span>
 - [[Markets/Stocks/Buzzing/2026-09-24 20-00 Buzzing Stocks|Buzzing Stocks]]  <span class="sado-source">Buzzing</span>
 - [[Signals/X-Digest/2026-09-24 20-00 X Digest|X Digest]]  <span class="sado-source">X Digest</span>
@@ -212,9 +214,9 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 <div class="sado-collection-title"><a data-href="Markets" href="Markets" class="internal-link">Markets →</a></div>
 <div class="sado-collection-subtitle">市場・株式・値動きをひとつの入口に</div>
 
+- [[Markets/CN-Top20/2026-09-24 16-30 CN Top20 Memo|2026-09-24 16:30 · CN Top20 Memo]]
+- [[Markets/JP-Top20/2026-09-24 16-10 JP Top20 Memo|2026-09-24 16:10 · JP Top20 Memo]]
 - [[Markets/Stocks/Buzzing/2026-09-24 20-00 Buzzing Stocks|2026-09-24 20:00 · Buzzing Stocks]]
-- [[Markets/US-Top20/2026-09-24 07-30 US Top20 Memo|2026-09-24 07:30 · US Top20 Memo]]
-- [[Markets/OHLC-Daily/2026-09-24 07-00 Global OHLC Memo|2026-09-24 07:00 · Global OHLC Memo]]
 </div>
 
 <div class="sado-collection">
@@ -275,4 +277,4 @@ _Choose a section. Each opens a dedicated page with its own series and archives.
 
 ---
 
-<div class="sado-footer">Refreshed 2026-09-24 21:10 · 3,900 dated articles indexed</div>
+<div class="sado-footer">Refreshed 2026-09-24 23:10 · 3,902 dated articles indexed</div>
