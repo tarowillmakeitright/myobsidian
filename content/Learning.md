@@ -13,11 +13,11 @@ cssclasses:
 
 _今日の小さな実践_
 
+- [[Learning/Missions/2026-09-29 07-30 Mission|2026-09-29 07:30 · Mission]]
+- [[Learning/Missions/2026-09-28 07-30 Mission|2026-09-28 07:30 · Mission]]
+- [[Learning/Missions/2026-09-27 07-30 Mission|2026-09-27 07:30 · Mission]]
 - [[Learning/Missions/2026-09-24 07-30 Mission|2026-09-24 07:30 · Mission]]
 - [[Learning/Missions/2026-09-23 07-30 Mission|2026-09-23 07:30 · Mission]]
-- [[Learning/Missions/2026-09-22 07-30 Mission|2026-09-22 07:30 · Mission]]
-- [[Learning/Missions/2026-09-21 07-30 Mission|2026-09-21 07:30 · Mission]]
-- [[Learning/Missions/2026-09-20 07-30 Mission|2026-09-20 07:30 · Mission]]
 
 ## [[Learning/Cloud-Engineer-Magazine Index|Cloud Engineer →]]
 
@@ -33,21 +33,21 @@ _クラウド設計と実践_
 
 _守る・運ぶ・運用する_
 
+- [[Learning/SecDevOps-Magazine/2026-09-28 Weekly SecDevOps Magazine|2026-09-28 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-09-21 Weekly SecDevOps Magazine|2026-09-21 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-09-14 Weekly SecDevOps Magazine|2026-09-14 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-09-07 Weekly SecDevOps Magazine|2026-09-07 · Weekly SecDevOps Magazine]]
 - [[Learning/SecDevOps-Magazine/2026-08-31 Weekly SecDevOps Magazine|2026-08-31 · Weekly SecDevOps Magazine]]
-- [[Learning/SecDevOps-Magazine/2026-08-24 Weekly SecDevOps Magazine|2026-08-24 · Weekly SecDevOps Magazine]]
 
 ## [[Learning/Linux-Magazine Index|Linux →]]
 
 _コマンドから仕組みへ_
 
+- [[Learning/Linux-Magazine/2026-09-29 Weekly Linux Magazine|2026-09-29 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-09-22 Weekly Linux Magazine|2026-09-22 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-09-15 Weekly Linux Magazine|2026-09-15 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-08-25 Weekly Linux Magazine|2026-08-25 · Weekly Linux Magazine]]
 - [[Learning/Linux-Magazine/2026-08-18 Weekly Linux Magazine|2026-08-18 · Weekly Linux Magazine]]
-- [[Learning/Linux-Magazine/2026-08-11 Weekly Linux Magazine|2026-08-11 · Weekly Linux Magazine]]
 
 ## [[Learning/Docker-Magazine Index|Docker →]]
 
