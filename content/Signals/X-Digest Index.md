@@ -11,6 +11,8 @@ cssclasses:
 
 ## Latest articles
 
+- [[Signals/X-Digest/2026-10-01 20-00 X Digest|2026-10-01 20:00 · X Digest]]
+- [[Signals/X-Digest/2026-10-01 08-00 X Digest|2026-10-01 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-09-30 20-00 X Digest|2026-09-30 20:00 · X Digest]]
 - [[Signals/X-Digest/2026-09-30 08-00 X Digest|2026-09-30 08:00 · X Digest]]
 - [[Signals/X-Digest/2026-09-29 20-00 X Digest|2026-09-29 20:00 · X Digest]]
