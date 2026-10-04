@@ -13,9 +13,9 @@ cssclasses:
 
 _日本のテック・生活改善ディール_
 
+- [[Deals/AmazonJP/2026-10-03 20-30 Amazon Tech Deals|2026-10-03 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-10-02 20-30 Amazon Tech Deals|2026-10-02 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-10-01 20-30 Amazon Tech Deals|2026-10-01 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-09-30 20-30 Amazon Tech Deals|2026-09-30 20:30 · Amazon Tech Deals]]
 - [[Deals/AmazonJP/2026-09-29 20-30 Amazon Tech Deals|2026-09-29 20:30 · Amazon Tech Deals]]
-- [[Deals/AmazonJP/2026-09-28 20-30 Amazon Tech Deals|2026-09-28 20:30 · Amazon Tech Deals]]
 
