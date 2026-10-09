@@ -11,6 +11,8 @@ cssclasses:
 
 ## Latest articles
 
+- [[Markets/Stocks/Buzzing/2026-10-08 20-00 Buzzing Stocks|2026-10-08 20:00 · Buzzing Stocks]]
+- [[Markets/Stocks/Buzzing/2026-10-08 06-00 Buzzing Stocks|2026-10-08 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-07 20-00 Buzzing Stocks|2026-10-07 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-07 06-00 Buzzing Stocks|2026-10-07 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-06 20-00 Buzzing Stocks|2026-10-06 20:00 · Buzzing Stocks]]

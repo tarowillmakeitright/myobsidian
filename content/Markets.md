@@ -13,31 +13,31 @@ cssclasses:
 
 _世界の値動きを一望_
 
+- [[Markets/OHLC-Daily/2026-10-08 07-00 Global OHLC Memo|2026-10-08 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-10-07 07-00 Global OHLC Memo|2026-10-07 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-10-06 07-00 Global OHLC Memo|2026-10-06 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-10-05 07-00 Global OHLC Memo|2026-10-05 07:00 · Global OHLC Memo]]
 - [[Markets/OHLC-Daily/2026-10-02 07-00 Global OHLC Memo|2026-10-02 07:00 · Global OHLC Memo]]
-- [[Markets/OHLC-Daily/2026-10-01 07-00 Global OHLC Memo|2026-10-01 07:00 · Global OHLC Memo]]
 
 ## [[Markets/US-Top20 Index|US Top20 →]]
 
 _米国市場の主役_
 
+- [[Markets/US-Top20/2026-10-08 07-30 US Top20 Memo|2026-10-08 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-07 07-30 US Top20 Memo|2026-10-07 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-06 07-30 US Top20 Memo|2026-10-06 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-05 07-30 US Top20 Memo|2026-10-05 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-02 07-30 US Top20 Memo|2026-10-02 07:30 · US Top20 Memo]]
-- [[Markets/US-Top20/2026-10-01 07-30 US Top20 Memo|2026-10-01 07:30 · US Top20 Memo]]
 
 ## [[Markets/JP-Top20 Index|JP Top20 →]]
 
 _日本市場の主役_
 
+- [[Markets/JP-Top20/2026-10-08 16-10 JP Top20 Memo|2026-10-08 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-10-07 16-10 JP Top20 Memo|2026-10-07 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-10-06 16-10 JP Top20 Memo|2026-10-06 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-10-05 16-10 JP Top20 Memo|2026-10-05 16:10 · JP Top20 Memo]]
 - [[Markets/JP-Top20/2026-10-02 16-10 JP Top20 Memo|2026-10-02 16:10 · JP Top20 Memo]]
-- [[Markets/JP-Top20/2026-10-01 16-10 JP Top20 Memo|2026-10-01 16:10 · JP Top20 Memo]]
 
 ## [[Markets/CN-Top20 Index|CN Top20 →]]
 
@@ -53,11 +53,11 @@ _中国市場の主役_
 
 _話題の銘柄を追う_
 
+- [[Markets/Stocks/Buzzing/2026-10-08 20-00 Buzzing Stocks|2026-10-08 20:00 · Buzzing Stocks]]
+- [[Markets/Stocks/Buzzing/2026-10-08 06-00 Buzzing Stocks|2026-10-08 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-07 20-00 Buzzing Stocks|2026-10-07 20:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-07 06-00 Buzzing Stocks|2026-10-07 06:00 · Buzzing Stocks]]
 - [[Markets/Stocks/Buzzing/2026-10-06 20-00 Buzzing Stocks|2026-10-06 20:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-10-06 06-00 Buzzing Stocks|2026-10-06 06:00 · Buzzing Stocks]]
-- [[Markets/Stocks/Buzzing/2026-10-05 20-00 Buzzing Stocks|2026-10-05 20:00 · Buzzing Stocks]]
 
 ## [[Markets/Risk Index|Risk →]]
 
