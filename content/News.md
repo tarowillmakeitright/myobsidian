@@ -13,9 +13,9 @@ cssclasses:
 
 _日本の朝をつかむ_
 
+- [[News/Nikkei/2026-10-13 05-00 Nikkei News|2026-10-13 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-10-12 05-00 Nikkei News|2026-10-12 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-10-11 05-00 Nikkei News|2026-10-11 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-10-10 05-00 Nikkei News|2026-10-10 05:00 · Nikkei News]]
 - [[News/Nikkei/2026-10-09 05-00 Nikkei News|2026-10-09 05:00 · Nikkei News]]
-- [[News/Nikkei/2026-10-08 05-00 Nikkei News|2026-10-08 05:00 · Nikkei News]]
 
