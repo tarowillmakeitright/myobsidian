@@ -11,6 +11,7 @@ cssclasses:
 
 ## Latest articles
 
+- [[Markets/US-Top20/2026-10-15 07-30 US Top20 Memo|2026-10-15 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-14 07-30 US Top20 Memo|2026-10-14 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-13 07-30 US Top20 Memo|2026-10-13 07:30 · US Top20 Memo]]
 - [[Markets/US-Top20/2026-10-12 07-30 US Top20 Memo|2026-10-12 07:30 · US Top20 Memo]]
